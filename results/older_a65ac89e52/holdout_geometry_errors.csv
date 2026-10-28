@@ -1,0 +1,249 @@
+doc,engine,field,flagged,truth,got
+P1_01,oracle,discount,True,0,0.14
+P1_01,oracle,rounding,True,-0.14,0
+P1_02,oracle,rounding,True,0.43,0
+P1_02,oracle,tax_total,True,3521.22,3521.65
+P1_05,oracle,discount,True,0,0.04
+P1_05,oracle,rounding,True,-0.04,0
+P1_07,oracle,rounding,True,0.15,0
+P1_07,oracle,tax_total,True,6787.81,6787.96
+P1_08,oracle,rounding,True,0.34,0
+P1_08,oracle,tax_total,True,9327.11,9327.45
+P1_13,oracle,discount,True,0,0.25
+P1_13,oracle,rounding,True,-0.25,0
+P3_01,oracle,invoice_no,True,BL-26-84940,2025/08/23
+P3_01,oracle,date,True,2025-08-23,None
+P3_02,oracle,invoice_no,True,SI-25-47807,2025/12/02
+P3_02,oracle,date,True,2025-12-02,None
+P3_03,oracle,invoice_no,True,R-26-63966,2025/02/25
+P3_03,oracle,date,True,2025-02-25,None
+P3_04,oracle,invoice_no,True,SI-26-87877,2025/04/26
+P3_04,oracle,date,True,2025-04-26,None
+P3_05,oracle,invoice_no,True,INV-26-34041,2026/02/13
+P3_05,oracle,date,True,2026-02-13,None
+P3_06,oracle,invoice_no,True,BL-25-40587,2025/02/13
+P3_06,oracle,date,True,2025-02-13,None
+P3_07,oracle,invoice_no,True,INV-26-88916,2026/07/28
+P3_07,oracle,date,True,2026-07-28,None
+P3_08,oracle,invoice_no,True,R-25-31531,2026/11/27
+P3_08,oracle,date,True,2026-11-27,None
+P3_09,oracle,invoice_no,True,SI-25-34786,2026/12/02
+P3_09,oracle,date,True,2026-12-02,None
+P3_10,oracle,invoice_no,True,BL-25-99709,2025/05/27
+P3_10,oracle,date,True,2025-05-27,None
+P3_11,oracle,invoice_no,True,R-26-21233,2025/02/04
+P3_11,oracle,date,True,2025-02-04,None
+P3_12,oracle,invoice_no,True,SI-26-62157,2025/06/16
+P3_12,oracle,date,True,2025-06-16,None
+P3_13,oracle,invoice_no,True,SI-26-88182,2026/09/16
+P3_13,oracle,date,True,2026-09-16,None
+P3_14,oracle,invoice_no,True,SI-26-76802,2025/09/09
+P3_14,oracle,date,True,2025-09-09,None
+P3_15,oracle,invoice_no,True,BL-26-28126,2026/07/06
+P3_15,oracle,date,True,2026-07-06,None
+P3_16,oracle,invoice_no,True,INV-26-51203,2026/07/28
+P3_16,oracle,date,True,2026-07-28,None
+P3_17,oracle,invoice_no,True,INV-25-48719,2025/05/13
+P3_17,oracle,date,True,2025-05-13,None
+P3_18,oracle,invoice_no,True,INV-25-84471,2026/08/03
+P3_18,oracle,date,True,2026-08-03,None
+P3_19,oracle,invoice_no,True,SI-25-77987,2026/05/10
+P3_19,oracle,date,True,2026-05-10,None
+P3_20,oracle,invoice_no,True,SI-25-81924,2026/11/22
+P3_20,oracle,date,True,2026-11-22,None
+P1_01,pdf-text,discount,True,0,0.14
+P1_01,pdf-text,rounding,True,-0.14,0
+P1_02,pdf-text,rounding,True,0.43,0
+P1_02,pdf-text,tax_total,True,3521.22,3521.65
+P1_05,pdf-text,discount,True,0,0.04
+P1_05,pdf-text,rounding,True,-0.04,0
+P1_07,pdf-text,rounding,True,0.15,0
+P1_07,pdf-text,tax_total,True,6787.81,6787.96
+P1_08,pdf-text,rounding,True,0.34,0
+P1_08,pdf-text,tax_total,True,9327.11,9327.45
+P1_13,pdf-text,discount,True,0,0.25
+P1_13,pdf-text,rounding,True,-0.25,0
+P3_01,pdf-text,invoice_no,True,BL-26-84940,2025/08/23
+P3_01,pdf-text,date,True,2025-08-23,None
+P3_02,pdf-text,invoice_no,True,SI-25-47807,2025/12/02
+P3_02,pdf-text,date,True,2025-12-02,None
+P3_03,pdf-text,invoice_no,True,R-26-63966,2025/02/25
+P3_03,pdf-text,date,True,2025-02-25,None
+P3_04,pdf-text,invoice_no,True,SI-26-87877,2025/04/26
+P3_04,pdf-text,date,True,2025-04-26,None
+P3_05,pdf-text,invoice_no,True,INV-26-34041,2026/02/13
+P3_05,pdf-text,date,True,2026-02-13,None
+P3_06,pdf-text,invoice_no,True,BL-25-40587,2025/02/13
+P3_06,pdf-text,date,True,2025-02-13,None
+P3_07,pdf-text,invoice_no,True,INV-26-88916,2026/07/28
+P3_07,pdf-text,date,True,2026-07-28,None
+P3_08,pdf-text,invoice_no,True,R-25-31531,2026/11/27
+P3_08,pdf-text,date,True,2026-11-27,None
+P3_09,pdf-text,invoice_no,True,SI-25-34786,2026/12/02
+P3_09,pdf-text,date,True,2026-12-02,None
+P3_10,pdf-text,invoice_no,True,BL-25-99709,2025/05/27
+P3_10,pdf-text,date,True,2025-05-27,None
+P3_11,pdf-text,invoice_no,True,R-26-21233,2025/02/04
+P3_11,pdf-text,date,True,2025-02-04,None
+P3_12,pdf-text,invoice_no,True,SI-26-62157,2025/06/16
+P3_12,pdf-text,date,True,2025-06-16,None
+P3_13,pdf-text,invoice_no,True,SI-26-88182,2026/09/16
+P3_13,pdf-text,date,True,2026-09-16,None
+P3_14,pdf-text,invoice_no,True,SI-26-76802,2025/09/09
+P3_14,pdf-text,date,True,2025-09-09,None
+P3_15,pdf-text,invoice_no,True,BL-26-28126,2026/07/06
+P3_15,pdf-text,date,True,2026-07-06,None
+P3_16,pdf-text,invoice_no,True,INV-26-51203,2026/07/28
+P3_16,pdf-text,date,True,2026-07-28,None
+P3_17,pdf-text,invoice_no,True,INV-25-48719,2025/05/13
+P3_17,pdf-text,date,True,2025-05-13,None
+P3_18,pdf-text,invoice_no,True,INV-25-84471,2026/08/03
+P3_18,pdf-text,date,True,2026-08-03,None
+P3_19,pdf-text,invoice_no,True,SI-25-77987,2026/05/10
+P3_19,pdf-text,date,True,2026-05-10,None
+P3_20,pdf-text,invoice_no,True,SI-25-81924,2026/11/22
+P3_20,pdf-text,date,True,2026-11-22,None
+P1_01,rapidocr,discount,True,0,0.14
+P1_01,rapidocr,rounding,True,-0.14,0
+P1_02,rapidocr,rounding,True,0.43,0
+P1_02,rapidocr,tax_total,True,3521.22,3521.65
+P1_05,rapidocr,discount,True,0,0.04
+P1_05,rapidocr,rounding,True,-0.04,0
+P1_07,rapidocr,invoice_no,True,SI-25-29041,Sl-25-29041
+P1_07,rapidocr,rounding,True,0.15,0
+P1_07,rapidocr,tax_total,True,6787.81,6787.96
+P1_08,rapidocr,rounding,True,0.34,0
+P1_08,rapidocr,tax_total,True,9327.11,9327.45
+P1_13,rapidocr,invoice_no,True,SI-25-52225,Sl-25-52225
+P1_13,rapidocr,discount,True,0,0.25
+P1_13,rapidocr,rounding,True,-0.25,0
+P1_15,rapidocr,invoice_no,True,SI-25-66049,Sl-25-66049
+P1_18,rapidocr,invoice_no,True,SI-25-18241,Sl-25-18241
+P3_01,rapidocr,invoice_no,True,BL-26-84940,2025/08/23
+P3_01,rapidocr,date,True,2025-08-23,None
+P3_02,rapidocr,invoice_no,True,SI-25-47807,2025/12/02
+P3_02,rapidocr,date,True,2025-12-02,None
+P3_03,rapidocr,invoice_no,True,R-26-63966,2025/02/25
+P3_03,rapidocr,date,True,2025-02-25,None
+P3_04,rapidocr,invoice_no,True,SI-26-87877,2025/04/26
+P3_04,rapidocr,date,True,2025-04-26,None
+P3_05,rapidocr,invoice_no,True,INV-26-34041,2026/02/13
+P3_05,rapidocr,date,True,2026-02-13,None
+P3_06,rapidocr,invoice_no,True,BL-25-40587,2025/02/13
+P3_06,rapidocr,date,True,2025-02-13,None
+P3_07,rapidocr,invoice_no,True,INV-26-88916,2026/07/28
+P3_07,rapidocr,date,True,2026-07-28,None
+P3_08,rapidocr,invoice_no,True,R-25-31531,2026/11/27
+P3_08,rapidocr,date,True,2026-11-27,None
+P3_09,rapidocr,invoice_no,True,SI-25-34786,2026/12/02
+P3_09,rapidocr,date,True,2026-12-02,None
+P3_10,rapidocr,invoice_no,True,BL-25-99709,2025/05/27
+P3_10,rapidocr,date,True,2025-05-27,None
+P3_11,rapidocr,invoice_no,True,R-26-21233,2025/02/04
+P3_11,rapidocr,date,True,2025-02-04,None
+P3_11,rapidocr,items,True,"[Item(description='Test tube rack', qty=Decimal('18'), unit_price=Decimal('269.44'), amount=Decimal('4849.92')), Item(description='Denim jacket', qty=Decimal('8'), unit_price=Decimal('1617.66'), amount=Decimal('12941.28')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('475.42'), amount=Decimal('4278.78')), Item(description='Ball bearing', qty=Decimal('17'), unit_price=Decimal('375.51'), amount=Decimal('6383.67')), Item(description='Paint tin 4L', qty=Decimal('11'), unit_price=Decimal('1714.68'), amount=Decimal('18861.48')), Item(description='Anchor chain 5m', qty=Decimal('18'), unit_price=Decimal('1587.82'), amount=Decimal('28580.76')), Item(description='Reading lens', qty=Decimal('2'), unit_price=Decimal('391.04'), amount=Decimal('782.08'))]","[Item(description='Testtuberack', qty=Decimal('18'), unit_price=Decimal('269.44'), amount=Decimal('4849.92')), Item(description='Denimjacket', qty=Decimal('8'), unit_price=Decimal('1617.66'), amount=Decimal('12941.28')), Item(description='Chillipowder1kg', qty=Decimal('6'), unit_price=Decimal('475.42'), amount=Decimal('4278.78')), Item(description='Ball bearing', qty=Decimal('17'), unit_price=Decimal('375.51'), amount=Decimal('6383.67')), Item(description='Painttin4L', qty=Decimal('11'), unit_price=Decimal('1714.68'), amount=Decimal('18861.48')), Item(description='Anchorchain5m', qty=Decimal('18'), unit_price=Decimal('1587.82'), amount=Decimal('28580.76')), Item(description='Readinglens', qty=Decimal('2'), unit_price=Decimal('391.04'), amount=Decimal('782.08'))]"
+P3_12,rapidocr,invoice_no,True,SI-26-62157,2025/06/16
+P3_12,rapidocr,date,True,2025-06-16,None
+P3_12,rapidocr,items,True,"[Item(description='Chilli powder 1kg', qty=Decimal('1'), unit_price=Decimal('191.57'), amount=Decimal('191.57')), Item(description='Test tube rack', qty=Decimal('9'), unit_price=Decimal('192.81'), amount=Decimal('1735.29')), Item(description='Reading lens', qty=Decimal('17'), unit_price=Decimal('989.09'), amount=Decimal('16814.53')), Item(description='Denim jacket', qty=Decimal('11'), unit_price=Decimal('2070.45'), amount=Decimal('22774.95')), Item(description='Anchor chain 5m', qty=Decimal('12'), unit_price=Decimal('1872.03'), amount=Decimal('22464.36')), Item(description='Ball bearing', qty=Decimal('14'), unit_price=Decimal('48.06'), amount=Decimal('672.84')), Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('231.21'), amount=Decimal('4392.99'))]","[Item(description='Chillipowder1kg', qty=Decimal('1'), unit_price=Decimal('191.57'), amount=Decimal('191.57')), Item(description='Testtuberack', qty=Decimal('6'), unit_price=Decimal('192.81'), amount=Decimal('1735.29')), Item(description='Reading lens', qty=Decimal('17'), unit_price=Decimal('989.09'), amount=Decimal('16814.53')), Item(description='Denimjacket', qty=Decimal('11'), unit_price=Decimal('2070.45'), amount=Decimal('22774.95')), Item(description='Anchorchain5m', qty=Decimal('12'), unit_price=Decimal('1872.03'), amount=Decimal('22464.36')), Item(description='Ball bearing', qty=Decimal('14'), unit_price=Decimal('48.06'), amount=Decimal('672.84')), Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('231.21'), amount=Decimal('4392.99'))]"
+P3_13,rapidocr,invoice_no,True,SI-26-88182,2026/09/16
+P3_13,rapidocr,date,True,2026-09-16,None
+P3_14,rapidocr,invoice_no,True,SI-26-76802,2025/09/09
+P3_14,rapidocr,date,True,2025-09-09,None
+P3_15,rapidocr,invoice_no,True,BL-26-28126,2026/07/06
+P3_15,rapidocr,date,True,2026-07-06,None
+P3_16,rapidocr,invoice_no,True,INV-26-51203,2026/07/28
+P3_16,rapidocr,date,True,2026-07-28,None
+P3_17,rapidocr,invoice_no,True,INV-25-48719,2025/05/13
+P3_17,rapidocr,date,True,2025-05-13,None
+P3_17,rapidocr,items,True,"[Item(description='Anchor chain 5m', qty=Decimal('14'), unit_price=Decimal('2253.98'), amount=Decimal('31555.72')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('373.26'), amount=Decimal('3359.34')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('348.33'), amount=Decimal('5921.61')), Item(description='Fern pot', qty=Decimal('19'), unit_price=Decimal('104.79'), amount=Decimal('1991.01')), Item(description='Paint tin 4L', qty=Decimal('9'), unit_price=Decimal('1025.73'), amount=Decimal('9231.57')), Item(description='Rope coil 20m', qty=Decimal('7'), unit_price=Decimal('260.92'), amount=Decimal('1826.44'))]","[Item(description='Anchorchain5m', qty=Decimal('14'), unit_price=Decimal('2253.98'), amount=Decimal('31555.72')), Item(description='Chillipowder1kg', qty=Decimal('6'), unit_price=Decimal('373.26'), amount=Decimal('3359.34')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('348.33'), amount=Decimal('5921.61')), Item(description='Fernpot', qty=Decimal('19'), unit_price=Decimal('104.79'), amount=Decimal('1991.01')), Item(description='Painttin4L', qty=Decimal('9'), unit_price=Decimal('1025.73'), amount=Decimal('9231.57')), Item(description='Ropecoil20m', qty=Decimal('7'), unit_price=Decimal('260.92'), amount=Decimal('1826.44'))]"
+P3_18,rapidocr,invoice_no,True,INV-25-84471,2026/08/03
+P3_18,rapidocr,date,True,2026-08-03,None
+P3_19,rapidocr,invoice_no,True,SI-25-77987,2026/05/10
+P3_19,rapidocr,date,True,2026-05-10,None
+P3_20,rapidocr,invoice_no,True,SI-25-81924,2026/11/22
+P3_20,rapidocr,date,True,2026-11-22,None
+P1_01,tesseract,discount,True,0,0.14
+P1_01,tesseract,rounding,True,-0.14,0
+P1_02,tesseract,rounding,True,0.43,0
+P1_02,tesseract,tax_total,True,3521.22,3521.65
+P1_03,tesseract,items,True,"[Item(description='Denim jacket', qty=Decimal('13'), unit_price=Decimal('1982.55'), amount=Decimal('25773.15')), Item(description='Rope coil 20m', qty=Decimal('17'), unit_price=Decimal('173.78'), amount=Decimal('2954.26')), Item(description='Paint tin 4L', qty=Decimal('16'), unit_price=Decimal('510.03'), amount=Decimal('8160.48')), Item(description='Safety goggles', qty=Decimal('14'), unit_price=Decimal('286.83'), amount=Decimal('4015.62')), Item(description='Fern pot', qty=Decimal('14'), unit_price=Decimal('398.43'), amount=Decimal('5578.02'))]","[Item(description='Denim jacket', qty=Decimal('13'), unit_price=Decimal('1982.55'), amount=Decimal('25773.15')), Item(description='Rope coil 20m ay', qty=None, unit_price=Decimal('173.78'), amount=Decimal('2954.26')), Item(description='Paint tin 4L', qty=Decimal('16'), unit_price=Decimal('510.03'), amount=Decimal('8160.48')), Item(description='Safety goggles', qty=Decimal('14'), unit_price=Decimal('286.83'), amount=Decimal('4015.62')), Item(description='Fern pot', qty=Decimal('14'), unit_price=Decimal('398.43'), amount=Decimal('5578.02'))]"
+P1_05,tesseract,discount,True,0,0.04
+P1_05,tesseract,rounding,True,-0.04,0
+P1_05,tesseract,items,True,"[Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('286.37'), amount=Decimal('5441.03')), Item(description='Rope coil 20m', qty=Decimal('8'), unit_price=Decimal('158.05'), amount=Decimal('1264.40')), Item(description='Fern pot', qty=Decimal('5'), unit_price=Decimal('95.95'), amount=Decimal('479.75'))]","[Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('286.37'), amount=Decimal('5441.03')), Item(description='Rope coil 20m', qty=None, unit_price=Decimal('158.05'), amount=Decimal('1264.40')), Item(description='Fern pot §', qty=None, unit_price=Decimal('95.95'), amount=Decimal('479.75'))]"
+P1_07,tesseract,rounding,True,0.15,0
+P1_07,tesseract,tax_total,True,6787.81,6787.96
+P1_07,tesseract,items,True,"[Item(description='Test tube rack', qty=Decimal('10'), unit_price=Decimal('355.95'), amount=Decimal('3559.50')), Item(description='Rope coil 20m', qty=Decimal('12'), unit_price=Decimal('607.73'), amount=Decimal('7292.76')), Item(description='Anchor chain 5m', qty=Decimal('2'), unit_price=Decimal('1556.99'), amount=Decimal('3113.98')), Item(description='Reading lens', qty=Decimal('20'), unit_price=Decimal('1187.19'), amount=Decimal('23743.80'))]","[Item(description='Test tube rack', qty=Decimal('10'), unit_price=Decimal('35595'), amount=Decimal('3559.50')), Item(description='Rope coil 20m', qty=Decimal('12'), unit_price=Decimal('607.73'), amount=Decimal('7292.76')), Item(description='Anchor chain 5m Z', qty=None, unit_price=Decimal('1556.99'), amount=Decimal('3113.98')), Item(description='Reading lens', qty=Decimal('20'), unit_price=Decimal('1187.19'), amount=Decimal('23743.80'))]"
+P1_08,tesseract,rounding,True,0.34,0
+P1_08,tesseract,tax_total,True,9327.11,9327.45
+P1_11,tesseract,items,True,"[Item(description='Denim jacket', qty=Decimal('4'), unit_price=Decimal('1876.08'), amount=Decimal('7504.32')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('224.13'), amount=Decimal('2017.17')), Item(description='Safety goggles', qty=Decimal('1'), unit_price=Decimal('244.23'), amount=Decimal('244.23')), Item(description='Fern pot', qty=Decimal('12'), unit_price=Decimal('143.46'), amount=Decimal('1721.52'))]","[Item(description='Denim jacket a', qty=None, unit_price=Decimal('1876.08'), amount=Decimal('7504.32')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('224.13'), amount=Decimal('2017.17')), Item(description='Safety goggles', qty=Decimal('1'), unit_price=Decimal('244.23'), amount=Decimal('244.23')), Item(description='Fern pot', qty=Decimal('12'), unit_price=Decimal('143.46'), amount=Decimal('1721.52'))]"
+P1_12,tesseract,items,True,"[Item(description='Paint tin 4L', qty=Decimal('20'), unit_price=Decimal('580.21'), amount=Decimal('11604.20')), Item(description='Rope coil 20m', qty=Decimal('20'), unit_price=Decimal('679.60'), amount=Decimal('13592.00')), Item(description='Test tube rack', qty=Decimal('12'), unit_price=Decimal('292.86'), amount=Decimal('3514.32')), Item(description='Denim jacket', qty=Decimal('6'), unit_price=Decimal('1803.08'), amount=Decimal('10818.48')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('241.55'), amount=Decimal('2173.95')), Item(description='Safety goggles', qty=Decimal('1'), unit_price=Decimal('241.87'), amount=Decimal('241.87'))]","[Item(description='Paint tin 4L', qty=Decimal('20'), unit_price=Decimal('580.21'), amount=Decimal('11604.20')), Item(description='Rope coil 20m', qty=Decimal('20'), unit_price=Decimal('679.60'), amount=Decimal('13592.00')), Item(description='Test tube rack', qty=Decimal('12'), unit_price=Decimal('292.86'), amount=Decimal('3514.32')), Item(description='Denim jacket', qty=None, unit_price=Decimal('1803.08'), amount=Decimal('10818.48')), Item(description='Chilli powder 1kg', qty=None, unit_price=Decimal('241.55'), amount=Decimal('2173.95')), Item(description='Safety goggles', qty=None, unit_price=Decimal('241.87'), amount=Decimal('241.87'))]"
+P1_13,tesseract,discount,True,0,0.25
+P1_13,tesseract,rounding,True,-0.25,0
+P1_13,tesseract,items,True,"[Item(description='Chilli powder 1kg', qty=Decimal('1'), unit_price=Decimal('493.65'), amount=Decimal('493.65')), Item(description='Safety goggles', qty=Decimal('1'), unit_price=Decimal('303.07'), amount=Decimal('303.07')), Item(description='Test tube rack', qty=Decimal('4'), unit_price=Decimal('178.05'), amount=Decimal('712.20')), Item(description='Anchor chain 5m', qty=Decimal('20'), unit_price=Decimal('3009.09'), amount=Decimal('60181.80')), Item(description='Denim jacket', qty=Decimal('15'), unit_price=Decimal('1641.22'), amount=Decimal('24618.30')), Item(description='Paint tin 4L', qty=Decimal('1'), unit_price=Decimal('411.75'), amount=Decimal('411.75')), Item(description='Fern pot', qty=Decimal('3'), unit_price=Decimal('106.14'), amount=Decimal('318.42'))]","[Item(description='Chilli powder 1kg', qty=None, unit_price=Decimal('493.65'), amount=Decimal('493.65')), Item(description='Safety goggles', qty=None, unit_price=Decimal('303.07'), amount=Decimal('303.07')), Item(description='Test tube rack', qty=Decimal('4'), unit_price=Decimal('178.05'), amount=Decimal('712.20')), Item(description='Anchor chain 5m', qty=Decimal('20'), unit_price=Decimal('3009.09'), amount=Decimal('60181.80')), Item(description='Denim jacket', qty=Decimal('15'), unit_price=Decimal('1641.22'), amount=Decimal('24618.30')), Item(description='Paint tin 4L', qty=None, unit_price=Decimal('411.75'), amount=Decimal('411.75')), Item(description='Fern pot', qty=Decimal('3'), unit_price=Decimal('106.14'), amount=Decimal('318.42'))]"
+P1_14,tesseract,items,True,"[Item(description='Fern pot', qty=Decimal('20'), unit_price=Decimal('388.61'), amount=Decimal('7772.20')), Item(description='Test tube rack', qty=Decimal('18'), unit_price=Decimal('282.24'), amount=Decimal('5080.32')), Item(description='Anchor chain 5m', qty=Decimal('1'), unit_price=Decimal('2094.04'), amount=Decimal('2094.04')), Item(description='Reading lens', qty=Decimal('5'), unit_price=Decimal('355.73'), amount=Decimal('1778.65')), Item(description='Rope coil 20m', qty=Decimal('20'), unit_price=Decimal('505.27'), amount=Decimal('10105.40'))]","[Item(description='Fern pot', qty=Decimal('20'), unit_price=Decimal('388.61'), amount=Decimal('7772.20')), Item(description='Test tube rack', qty=Decimal('18'), unit_price=Decimal('282.24'), amount=Decimal('5080.32')), Item(description='Anchor chain 5m a', qty=None, unit_price=Decimal('2094.04'), amount=Decimal('2094.04')), Item(description='Reading lens', qty=Decimal('5'), unit_price=Decimal('355.73'), amount=Decimal('1778.65')), Item(description='Rope coil 20m', qty=Decimal('20'), unit_price=Decimal('505.27'), amount=Decimal('10105.40'))]"
+P1_18,tesseract,items,True,"[Item(description='Fern pot', qty=Decimal('16'), unit_price=Decimal('183.44'), amount=Decimal('2935.04')), Item(description='Chilli powder 1kg', qty=Decimal('5'), unit_price=Decimal('384.13'), amount=Decimal('1920.65')), Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('168.03'), amount=Decimal('3192.57')), Item(description='Paint tin 4L', qty=Decimal('12'), unit_price=Decimal('1772.99'), amount=Decimal('21275.88'))]","[Item(description='Fern pot', qty=Decimal('16'), unit_price=Decimal('183.44'), amount=Decimal('2935.04')), Item(description='Chilli powder 1kg', qty=Decimal('5'), unit_price=Decimal('384.13'), amount=Decimal('1920.65')), Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('168.03'), amount=Decimal('3192.57')), Item(description='Paint tin 4L a2', qty=None, unit_price=Decimal('1772.99'), amount=Decimal('21275.88'))]"
+P1_20,tesseract,items,True,"[Item(description='Ball bearing', qty=Decimal('12'), unit_price=Decimal('57.77'), amount=Decimal('693.24')), Item(description='Paint tin 4L', qty=Decimal('4'), unit_price=Decimal('504.55'), amount=Decimal('2018.20')), Item(description='Test tube rack', qty=Decimal('14'), unit_price=Decimal('160.00'), amount=Decimal('2240.00')), Item(description='Reading lens', qty=Decimal('5'), unit_price=Decimal('667.98'), amount=Decimal('3339.90')), Item(description='Denim jacket', qty=Decimal('19'), unit_price=Decimal('1298.35'), amount=Decimal('24668.65')), Item(description='Anchor chain 5m', qty=Decimal('5'), unit_price=Decimal('764.56'), amount=Decimal('3822.80')), Item(description='Safety goggles', qty=Decimal('9'), unit_price=Decimal('314.14'), amount=Decimal('2827.26'))]","[Item(description='Ball bearing ae', qty=None, unit_price=Decimal('57.77'), amount=Decimal('693.24')), Item(description='Paint tin 4L', qty=Decimal('4'), unit_price=Decimal('504.55'), amount=Decimal('2018.20')), Item(description='Test tube rack', qty=Decimal('14'), unit_price=Decimal('160.00'), amount=Decimal('2240.00')), Item(description='Reading lens', qty=Decimal('5'), unit_price=Decimal('667.98'), amount=Decimal('3339.90')), Item(description='Denim jacket', qty=Decimal('19'), unit_price=Decimal('1298.35'), amount=Decimal('24668.65')), Item(description='Anchor chain 5m', qty=Decimal('5'), unit_price=Decimal('764.56'), amount=Decimal('3822.80')), Item(description='Safety goggles', qty=Decimal('9'), unit_price=Decimal('314.14'), amount=Decimal('2827.26'))]"
+P2_02,tesseract,items,True,"[Item(description='Denim jacket', qty=Decimal('13'), unit_price=Decimal('789.80'), amount=Decimal('10267.40')), Item(description='Fern pot', qty=Decimal('15'), unit_price=Decimal('93.36'), amount=Decimal('1400.40')), Item(description='Safety goggles', qty=Decimal('1'), unit_price=Decimal('381.46'), amount=Decimal('381.46')), Item(description='Anchor chain 5m', qty=Decimal('7'), unit_price=Decimal('721.08'), amount=Decimal('5047.56')), Item(description='Chilli powder 1kg', qty=Decimal('11'), unit_price=Decimal('418.77'), amount=Decimal('4606.47'))]","[Item(description='Denim jacket', qty=Decimal('13'), unit_price=Decimal('789.80'), amount=Decimal('10267.40')), Item(description='Fern pot', qty=Decimal('15'), unit_price=Decimal('93.36'), amount=Decimal('1400.40')), Item(description='Safety goggles', qty=Decimal('1'), unit_price=Decimal('381.46'), amount=Decimal('381.46')), Item(description='Anchor chain 5m', qty=Decimal('7'), unit_price=Decimal('721.08'), amount=Decimal('5047.56')), Item(description='Chilli powder 1kg il', qty=None, unit_price=Decimal('418.77'), amount=Decimal('4606.47'))]"
+P2_04,tesseract,items,True,"[Item(description='Reading lens', qty=Decimal('6'), unit_price=Decimal('949.28'), amount=Decimal('5695.68')), Item(description='Rope coil 20m', qty=Decimal('7'), unit_price=Decimal('293.55'), amount=Decimal('2054.85')), Item(description='Ball bearing', qty=Decimal('4'), unit_price=Decimal('311.38'), amount=Decimal('1245.52')), Item(description='Denim jacket', qty=Decimal('14'), unit_price=Decimal('1877.33'), amount=Decimal('26282.62'))]","[Item(description='Reading lens', qty=Decimal('6'), unit_price=Decimal('949.28'), amount=Decimal('5695.68')), Item(description='Rope coil 20m', qty=None, unit_price=Decimal('293.55'), amount=Decimal('2054.85')), Item(description='Ball bearing', qty=Decimal('4'), unit_price=Decimal('311.38'), amount=Decimal('1245.52')), Item(description='Denim jacket', qty=Decimal('14'), unit_price=Decimal('1877.33'), amount=Decimal('26282.62'))]"
+P2_09,tesseract,items,True,"[Item(description='Denim jacket', qty=Decimal('3'), unit_price=Decimal('1743.57'), amount=Decimal('5230.71')), Item(description='Test tube rack', qty=Decimal('14'), unit_price=Decimal('325.97'), amount=Decimal('4563.58')), Item(description='Paint tin 4L', qty=Decimal('13'), unit_price=Decimal('744.59'), amount=Decimal('9679.67')), Item(description='Anchor chain 5m', qty=Decimal('20'), unit_price=Decimal('2769.46'), amount=Decimal('55389.20')), Item(description='Safety goggles', qty=Decimal('16'), unit_price=Decimal('247.94'), amount=Decimal('3967.04')), Item(description='Ball bearing', qty=Decimal('13'), unit_price=Decimal('155.65'), amount=Decimal('2023.45'))]","[Item(description='Denim jacket ig:', qty=None, unit_price=Decimal('1743.57'), amount=Decimal('5230.71')), Item(description='Test tube rack', qty=Decimal('14'), unit_price=Decimal('325.97'), amount=Decimal('4563.58')), Item(description='Paint tin 4L', qty=Decimal('13'), unit_price=Decimal('744.59'), amount=Decimal('9679.67')), Item(description='Anchor chain 5m', qty=Decimal('20'), unit_price=Decimal('2769.46'), amount=Decimal('55389.20')), Item(description='Safety goggles', qty=Decimal('16'), unit_price=Decimal('247.94'), amount=Decimal('3967.04')), Item(description='Ball bearing', qty=Decimal('13'), unit_price=Decimal('155.65'), amount=Decimal('2023.45'))]"
+P2_10,tesseract,items,True,"[Item(description='Safety goggles', qty=Decimal('10'), unit_price=Decimal('155.82'), amount=Decimal('1558.20')), Item(description='Rope coil 20m', qty=Decimal('15'), unit_price=Decimal('335.39'), amount=Decimal('5030.85')), Item(description='Anchor chain 5m', qty=Decimal('7'), unit_price=Decimal('791.71'), amount=Decimal('5541.97')), Item(description='Fern pot', qty=Decimal('11'), unit_price=Decimal('313.71'), amount=Decimal('3450.81')), Item(description='Ball bearing', qty=Decimal('14'), unit_price=Decimal('242.59'), amount=Decimal('3396.26'))]","[Item(description='Safety goggles', qty=Decimal('10'), unit_price=Decimal('155.82'), amount=Decimal('1558.20')), Item(description='Rope coil 20m', qty=Decimal('15'), unit_price=Decimal('335.39'), amount=Decimal('5030.85')), Item(description='Anchor chain 5m', qty=Decimal('7'), unit_price=Decimal('791.71'), amount=Decimal('5541.97')), Item(description='Fern pot S13', qty=Decimal('1'), unit_price=Decimal('71'), amount=Decimal('3450.81')), Item(description='Ball bearing', qty=Decimal('14'), unit_price=Decimal('242.59'), amount=Decimal('3396.26'))]"
+P2_11,tesseract,items,True,"[Item(description='Anchor chain 5m', qty=Decimal('13'), unit_price=Decimal('1057.99'), amount=Decimal('13753.87')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('214.48'), amount=Decimal('3646.16'))]","[Item(description='Anchor chain 5m', qty=Decimal('13'), unit_price=Decimal('1057.99'), amount=Decimal('13753.87')), Item(description='Safety goggles Le', qty=None, unit_price=Decimal('214.48'), amount=Decimal('3646.16'))]"
+P2_12,tesseract,items,False,"[Item(description='Paint tin 4L', qty=Decimal('1'), unit_price=Decimal('1723.45'), amount=Decimal('1723.45')), Item(description='Anchor chain 5m', qty=Decimal('2'), unit_price=Decimal('2239.58'), amount=Decimal('4479.16')), Item(description='Test tube rack', qty=Decimal('12'), unit_price=Decimal('120.46'), amount=Decimal('1445.52')), Item(description='Reading lens', qty=Decimal('15'), unit_price=Decimal('669.72'), amount=Decimal('10045.80')), Item(description='Rope coil 20m', qty=Decimal('13'), unit_price=Decimal('266.20'), amount=Decimal('3460.60')), Item(description='Safety goggles', qty=Decimal('18'), unit_price=Decimal('319.29'), amount=Decimal('5747.22'))]","[Item(description='Paint tin 4L', qty=Decimal('1'), unit_price=Decimal('1723.45'), amount=Decimal('1723.45')), Item(description='Anchor chain 5m', qty=Decimal('2'), unit_price=Decimal('2239.58'), amount=Decimal('4479.16')), Item(description='Test tube rack', qty=Decimal('12'), unit_price=Decimal('120.46'), amount=Decimal('1445.52')), Item(description='Reading lens', qty=Decimal('15'), unit_price=Decimal('669.72'), amount=Decimal('10045.80')), Item(description='Rope coil 20m', qty=Decimal('13'), unit_price=Decimal('266.20'), amount=Decimal('3460.60')), Item(description='Safety goggles Rs,', qty=Decimal('18'), unit_price=Decimal('319.29'), amount=Decimal('5747.22'))]"
+P2_13,tesseract,items,True,"[Item(description='Chilli powder 1kg', qty=Decimal('13'), unit_price=Decimal('310.93'), amount=Decimal('4042.09')), Item(description='Anchor chain 5m', qty=Decimal('17'), unit_price=Decimal('1325.22'), amount=Decimal('22528.74')), Item(description='Safety goggles', qty=Decimal('1'), unit_price=Decimal('324.73'), amount=Decimal('324.73')), Item(description='Denim jacket', qty=Decimal('20'), unit_price=Decimal('2591.18'), amount=Decimal('51823.60')), Item(description='Fern pot', qty=Decimal('3'), unit_price=Decimal('302.36'), amount=Decimal('907.08')), Item(description='Rope coil 20m', qty=Decimal('11'), unit_price=Decimal('631.69'), amount=Decimal('6948.59')), Item(description='Ball bearing', qty=Decimal('18'), unit_price=Decimal('87.75'), amount=Decimal('1579.50'))]","[Item(description='Chilli powder 1kg', qty=Decimal('13'), unit_price=Decimal('310.93'), amount=Decimal('4042.09')), Item(description='Anchor chain 5m 17.', qty=None, unit_price=Decimal('1325.22'), amount=Decimal('22528.74')), Item(description='Safety goggles 324.73,', qty=Decimal('1'), unit_price=None, amount=Decimal('324.73')), Item(description='Denim jacket', qty=Decimal('20'), unit_price=Decimal('2591.18'), amount=Decimal('51823.60')), Item(description='Fern pot', qty=Decimal('3'), unit_price=Decimal('302.36'), amount=Decimal('907.08')), Item(description='Rope coil 20m il', qty=None, unit_price=Decimal('631.69'), amount=Decimal('6948.59')), Item(description='Ball bearing', qty=Decimal('18'), unit_price=Decimal('87.75'), amount=Decimal('1579.50'))]"
+P2_15,tesseract,items,True,"[Item(description='Ball bearing', qty=Decimal('5'), unit_price=Decimal('55.95'), amount=Decimal('279.75')), Item(description='Chilli powder 1kg', qty=Decimal('2'), unit_price=Decimal('304.58'), amount=Decimal('609.16'))]","[Item(description='Ball bearing a', qty=None, unit_price=Decimal('55.95'), amount=Decimal('279.75')), Item(description='Chilli powder 1kg', qty=Decimal('2'), unit_price=Decimal('304.58'), amount=Decimal('609.16'))]"
+P2_16,tesseract,items,True,"[Item(description='Paint tin 4L', qty=Decimal('19'), unit_price=Decimal('791.31'), amount=Decimal('15034.89')), Item(description='Anchor chain 5m', qty=Decimal('12'), unit_price=Decimal('3096.67'), amount=Decimal('37160.04')), Item(description='Reading lens', qty=Decimal('5'), unit_price=Decimal('408.36'), amount=Decimal('2041.80')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('175.96'), amount=Decimal('2991.32')), Item(description='Denim jacket', qty=Decimal('5'), unit_price=Decimal('1035.15'), amount=Decimal('5175.75'))]","[Item(description='Paint tin 4L', qty=Decimal('19'), unit_price=Decimal('791.31'), amount=Decimal('15034.89')), Item(description='Anchor chain 5m', qty=Decimal('12'), unit_price=Decimal('3096.67'), amount=Decimal('37160.04')), Item(description='Reading lens a', qty=None, unit_price=Decimal('408.36'), amount=Decimal('2041.80')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('175.96'), amount=Decimal('2991.32')), Item(description='Denim jacket', qty=Decimal('5'), unit_price=Decimal('1035.15'), amount=Decimal('5175.75'))]"
+P2_18,tesseract,items,True,"[Item(description='Denim jacket', qty=Decimal('19'), unit_price=Decimal('776.07'), amount=Decimal('14745.33')), Item(description='Chilli powder 1kg', qty=Decimal('20'), unit_price=Decimal('410.84'), amount=Decimal('8216.80')), Item(description='Reading lens', qty=Decimal('8'), unit_price=Decimal('1022.61'), amount=Decimal('8180.88')), Item(description='Safety goggles', qty=Decimal('5'), unit_price=Decimal('217.90'), amount=Decimal('1089.50')), Item(description='Test tube rack', qty=Decimal('4'), unit_price=Decimal('628.61'), amount=Decimal('2514.44')), Item(description='Rope coil 20m', qty=Decimal('15'), unit_price=Decimal('295.68'), amount=Decimal('4435.20'))]","[Item(description='Denim jacket', qty=Decimal('19'), unit_price=Decimal('776.07'), amount=Decimal('14745.33')), Item(description='Chilli powder 1kg', qty=Decimal('20'), unit_price=Decimal('41084'), amount=Decimal('8216.80')), Item(description='Reading lens Rs,', qty=Decimal('8'), unit_price=Decimal('1022.61'), amount=Decimal('8180.88')), Item(description='Safety goggles', qty=None, unit_price=Decimal('217.90'), amount=Decimal('1089.50')), Item(description='Test tube rack', qty=Decimal('4'), unit_price=Decimal('628.61'), amount=Decimal('2514.44')), Item(description='Rope coil 20m', qty=Decimal('15'), unit_price=Decimal('295.68'), amount=Decimal('4435.20'))]"
+P2_19,tesseract,items,True,"[Item(description='Rope coil 20m', qty=Decimal('1'), unit_price=Decimal('298.16'), amount=Decimal('298.16')), Item(description='Test tube rack', qty=Decimal('4'), unit_price=Decimal('403.45'), amount=Decimal('1613.80')), Item(description='Fern pot', qty=Decimal('18'), unit_price=Decimal('266.77'), amount=Decimal('4801.86')), Item(description='Anchor chain 5m', qty=Decimal('9'), unit_price=Decimal('797.05'), amount=Decimal('7173.45')), Item(description='Reading lens', qty=Decimal('16'), unit_price=Decimal('734.22'), amount=Decimal('11747.52')), Item(description='Safety goggles', qty=Decimal('9'), unit_price=Decimal('364.44'), amount=Decimal('3279.96')), Item(description='Ball bearing', qty=Decimal('2'), unit_price=Decimal('332.62'), amount=Decimal('665.24'))]","[Item(description='Rope coil 20m', qty=Decimal('1'), unit_price=Decimal('298.16'), amount=Decimal('298.16')), Item(description='Test tube rack', qty=Decimal('4'), unit_price=Decimal('403.45'), amount=Decimal('1613.80')), Item(description='Fern pot', qty=Decimal('18'), unit_price=Decimal('266.77'), amount=Decimal('4801.86')), Item(description='Anchor chain 5m', qty=Decimal('9'), unit_price=Decimal('797.05'), amount=Decimal('7173.45')), Item(description='Reading lens', qty=Decimal('16'), unit_price=Decimal('734.22'), amount=Decimal('11747.52')), Item(description='Safety goggles', qty=None, unit_price=Decimal('364.44'), amount=Decimal('3279.96')), Item(description='Ball bearing', qty=None, unit_price=Decimal('332.62'), amount=Decimal('665.24'))]"
+P3_01,tesseract,invoice_no,True,BL-26-84940,2025/08/23
+P3_01,tesseract,date,True,2025-08-23,None
+P3_01,tesseract,items,True,"[Item(description='Ball bearing', qty=Decimal('8'), unit_price=Decimal('250.77'), amount=Decimal('2006.16')), Item(description='Denim jacket', qty=Decimal('1'), unit_price=Decimal('2720.64'), amount=Decimal('2720.64')), Item(description='Paint tin 4L', qty=Decimal('8'), unit_price=Decimal('1403.56'), amount=Decimal('11228.48')), Item(description='Reading lens', qty=Decimal('20'), unit_price=Decimal('459.45'), amount=Decimal('9189.00'))]","[Item(description='Ball bearing', qty=None, unit_price=Decimal('250.77'), amount=Decimal('2006.16')), Item(description='Denim jacket', qty=None, unit_price=Decimal('2720.64'), amount=Decimal('2720.64')), Item(description='Paint tin 4L', qty=None, unit_price=Decimal('1403.56'), amount=Decimal('11228.48')), Item(description='Reading lens', qty=Decimal('20'), unit_price=Decimal('459.45'), amount=Decimal('9189.00'))]"
+P3_02,tesseract,invoice_no,True,SI-25-47807,2025/12/02
+P3_02,tesseract,date,True,2025-12-02,None
+P3_02,tesseract,items,True,"[Item(description='Ball bearing', qty=Decimal('13'), unit_price=Decimal('67.99'), amount=Decimal('883.87')), Item(description='Chilli powder 1kg', qty=Decimal('17'), unit_price=Decimal('403.78'), amount=Decimal('6864.26')), Item(description='Paint tin 4L', qty=Decimal('11'), unit_price=Decimal('1308.62'), amount=Decimal('14394.82')), Item(description='Denim jacket', qty=Decimal('5'), unit_price=Decimal('717.35'), amount=Decimal('3586.75'))]","[Item(description='Ball bearing', qty=Decimal('13'), unit_price=Decimal('67.99'), amount=Decimal('883.87')), Item(description='Chilli powder 1kg ay)', qty=None, unit_price=Decimal('403.78'), amount=Decimal('6864.26')), Item(description='Paint tin 4L Ag', qty=None, unit_price=Decimal('1308.62'), amount=Decimal('14394.82')), Item(description='Denim jacket', qty=Decimal('5'), unit_price=Decimal('717.35'), amount=Decimal('3586.75'))]"
+P3_03,tesseract,invoice_no,True,R-26-63966,2025/02/25
+P3_03,tesseract,date,True,2025-02-25,None
+P3_04,tesseract,invoice_no,True,SI-26-87877,2025/04/26
+P3_04,tesseract,date,True,2025-04-26,None
+P3_04,tesseract,items,True,"[Item(description='Safety goggles', qty=Decimal('20'), unit_price=Decimal('429.82'), amount=Decimal('8596.40')), Item(description='Reading lens', qty=Decimal('17'), unit_price=Decimal('1239.42'), amount=Decimal('21070.14')), Item(description='Denim jacket', qty=Decimal('10'), unit_price=Decimal('2061.87'), amount=Decimal('20618.70')), Item(description='Ball bearing', qty=Decimal('8'), unit_price=Decimal('315.89'), amount=Decimal('2527.12'))]","[Item(description='Safety goggles', qty=Decimal('20'), unit_price=Decimal('429.82'), amount=Decimal('8596.40')), Item(description='Reading lens S551,', qty=Decimal('17'), unit_price=Decimal('1239.42'), amount=Decimal('21070.14')), Item(description='Denim jacket', qty=Decimal('10'), unit_price=Decimal('2061.87'), amount=Decimal('20618.70')), Item(description='Ball bearing', qty=Decimal('8'), unit_price=Decimal('315.89'), amount=Decimal('2027.12'))]"
+P3_05,tesseract,invoice_no,True,INV-26-34041,2026/02/13
+P3_05,tesseract,date,True,2026-02-13,None
+P3_06,tesseract,invoice_no,True,BL-25-40587,2025/02/13
+P3_06,tesseract,date,True,2025-02-13,None
+P3_07,tesseract,invoice_no,True,INV-26-88916,2026/07/28
+P3_07,tesseract,date,True,2026-07-28,None
+P3_08,tesseract,invoice_no,True,R-25-31531,2026/11/27
+P3_08,tesseract,date,True,2026-11-27,None
+P3_08,tesseract,subtotal,True,39627.36,None
+P3_08,tesseract,total,True,46760.28,39627.36
+P3_08,tesseract,tax_total,True,7132.92,0
+P3_08,tesseract,items,True,"[Item(description='Test tube rack', qty=Decimal('13'), unit_price=Decimal('203.75'), amount=Decimal('2648.75')), Item(description='Chilli powder 1kg', qty=Decimal('5'), unit_price=Decimal('418.74'), amount=Decimal('2093.70')), Item(description='Fern pot', qty=Decimal('13'), unit_price=Decimal('292.07'), amount=Decimal('3796.91')), Item(description='Rope coil 20m', qty=Decimal('17'), unit_price=Decimal('480.64'), amount=Decimal('8170.88')), Item(description='Anchor chain 5m', qty=Decimal('3'), unit_price=Decimal('1590.26'), amount=Decimal('4770.78')), Item(description='Reading lens', qty=Decimal('18'), unit_price=Decimal('1008.13'), amount=Decimal('18146.34'))]","[Item(description='Test tube rack', qty=Decimal('13'), unit_price=Decimal('203.75'), amount=Decimal('2648.75')), Item(description='Chilli powder 1kg >', qty=None, unit_price=Decimal('418.74'), amount=Decimal('2093.70')), Item(description='Fern pot', qty=Decimal('13'), unit_price=Decimal('292.07'), amount=Decimal('3796.91')), Item(description='Rope coil 20m', qty=Decimal('17'), unit_price=Decimal('480.64'), amount=Decimal('8170.88')), Item(description='Anchor chain 5m', qty=Decimal('3'), unit_price=Decimal('1590.26'), amount=Decimal('4770.78')), Item(description='Reading lens e2i7', qty=Decimal('18'), unit_price=Decimal('1008.13'), amount=Decimal('18146.34'))]"
+P3_09,tesseract,invoice_no,True,SI-25-34786,2026/12/02
+P3_09,tesseract,date,True,2026-12-02,None
+P3_09,tesseract,items,True,"[Item(description='Paint tin 4L', qty=Decimal('1'), unit_price=Decimal('1019.50'), amount=Decimal('1019.50')), Item(description='Denim jacket', qty=Decimal('18'), unit_price=Decimal('976.42'), amount=Decimal('17575.56')), Item(description='Ball bearing', qty=Decimal('8'), unit_price=Decimal('191.74'), amount=Decimal('1533.92')), Item(description='Chilli powder 1kg', qty=Decimal('3'), unit_price=Decimal('244.51'), amount=Decimal('733.53'))]","[Item(description='Paint tin 4L a', qty=None, unit_price=Decimal('1019.50'), amount=Decimal('1019.50')), Item(description='Denim jacket', qty=Decimal('18'), unit_price=Decimal('976.42'), amount=Decimal('17575.56')), Item(description='Ball bearing', qty=Decimal('8'), unit_price=Decimal('191.74'), amount=Decimal('1533.92'))]"
+P3_10,tesseract,invoice_no,True,BL-25-99709,2025/05/27
+P3_10,tesseract,date,True,2025-05-27,None
+P3_10,tesseract,items,True,"[Item(description='Paint tin 4L', qty=Decimal('3'), unit_price=Decimal('1499.14'), amount=Decimal('4497.42')), Item(description='Fern pot', qty=Decimal('15'), unit_price=Decimal('165.01'), amount=Decimal('2475.15')), Item(description='Ball bearing', qty=Decimal('1'), unit_price=Decimal('242.72'), amount=Decimal('242.72')), Item(description='Chilli powder 1kg', qty=Decimal('2'), unit_price=Decimal('392.71'), amount=Decimal('785.42')), Item(description='Denim jacket', qty=Decimal('16'), unit_price=Decimal('2144.58'), amount=Decimal('34313.28'))]","[Item(description='Paint tin 4L', qty=Decimal('2'), unit_price=Decimal('1499.14'), amount=Decimal('4497.42')), Item(description='Fern pot', qty=Decimal('15'), unit_price=Decimal('165.01'), amount=Decimal('2475.15')), Item(description='Ball bearing', qty=Decimal('1'), unit_price=Decimal('242.72'), amount=Decimal('242.72')), Item(description='Chilli powder 1kg zZ', qty=None, unit_price=Decimal('392.71'), amount=Decimal('785.42')), Item(description='Denim jacket', qty=Decimal('16'), unit_price=Decimal('2144.58'), amount=Decimal('34313.28'))]"
+P3_11,tesseract,invoice_no,True,R-26-21233,2025/02/04
+P3_11,tesseract,date,True,2025-02-04,None
+P3_12,tesseract,invoice_no,True,SI-26-62157,2025/06/16
+P3_12,tesseract,date,True,2025-06-16,None
+P3_13,tesseract,invoice_no,True,SI-26-88182,2026/09/16
+P3_13,tesseract,date,True,2026-09-16,None
+P3_14,tesseract,invoice_no,True,SI-26-76802,2025/09/09
+P3_14,tesseract,date,True,2025-09-09,None
+P3_15,tesseract,invoice_no,True,BL-26-28126,2026/07/06
+P3_15,tesseract,date,True,2026-07-06,None
+P3_16,tesseract,invoice_no,True,INV-26-51203,2026/07/28
+P3_16,tesseract,date,True,2026-07-28,None
+P3_16,tesseract,items,True,"[Item(description='Rope coil 20m', qty=Decimal('12'), unit_price=Decimal('706.00'), amount=Decimal('8472.00')), Item(description='Fern pot', qty=Decimal('3'), unit_price=Decimal('134.84'), amount=Decimal('404.52')), Item(description='Anchor chain 5m', qty=Decimal('9'), unit_price=Decimal('2810.00'), amount=Decimal('25290.00'))]","[Item(description='Rope coil 20m', qty=Decimal('12'), unit_price=Decimal('706.00'), amount=Decimal('8472.00')), Item(description='Fern pot', qty=None, unit_price=Decimal('134.84'), amount=Decimal('404.52')), Item(description='Anchor chain 5m', qty=None, unit_price=Decimal('2810.00'), amount=Decimal('25290.00'))]"
+P3_17,tesseract,invoice_no,True,INV-25-48719,2025/05/13
+P3_17,tesseract,date,True,2025-05-13,None
+P3_17,tesseract,items,True,"[Item(description='Anchor chain 5m', qty=Decimal('14'), unit_price=Decimal('2253.98'), amount=Decimal('31555.72')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('373.26'), amount=Decimal('3359.34')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('348.33'), amount=Decimal('5921.61')), Item(description='Fern pot', qty=Decimal('19'), unit_price=Decimal('104.79'), amount=Decimal('1991.01')), Item(description='Paint tin 4L', qty=Decimal('9'), unit_price=Decimal('1025.73'), amount=Decimal('9231.57')), Item(description='Rope coil 20m', qty=Decimal('7'), unit_price=Decimal('260.92'), amount=Decimal('1826.44'))]","[Item(description='Anchor chain 5m 2,253.98.', qty=Decimal('14'), unit_price=None, amount=Decimal('31555.72')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('373.26'), amount=Decimal('3359.34')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('348.33'), amount=Decimal('5921.61')), Item(description='Fern pot', qty=Decimal('19'), unit_price=Decimal('104.79'), amount=Decimal('1991.01'))]"
+P3_18,tesseract,invoice_no,True,INV-25-84471,2026/08/03
+P3_18,tesseract,date,True,2026-08-03,None
+P3_19,tesseract,invoice_no,True,SI-25-77987,2026/05/10
+P3_19,tesseract,date,True,2026-05-10,None
+P3_19,tesseract,items,True,"[Item(description='Fern pot', qty=Decimal('17'), unit_price=Decimal('308.31'), amount=Decimal('5241.27')), Item(description='Ball bearing', qty=Decimal('19'), unit_price=Decimal('192.59'), amount=Decimal('3659.21')), Item(description='Paint tin 4L', qty=Decimal('18'), unit_price=Decimal('1244.15'), amount=Decimal('22394.70')), Item(description='Test tube rack', qty=Decimal('19'), unit_price=Decimal('621.03'), amount=Decimal('11799.57')), Item(description='Safety goggles', qty=Decimal('8'), unit_price=Decimal('126.95'), amount=Decimal('1015.60')), Item(description='Reading lens', qty=Decimal('20'), unit_price=Decimal('569.50'), amount=Decimal('11390.00'))]","[Item(description='Fern pot', qty=Decimal('17'), unit_price=Decimal('308.31'), amount=Decimal('5241.27')), Item(description='Ball bearing', qty=Decimal('19'), unit_price=Decimal('192.59'), amount=Decimal('3659.21')), Item(description='Paint tin 4L', qty=Decimal('18'), unit_price=Decimal('1244.15'), amount=Decimal('22394.70'))]"
+P3_20,tesseract,invoice_no,True,SI-25-81924,2026/11/22
+P3_20,tesseract,date,True,2026-11-22,None
+P3_20,tesseract,items,True,"[Item(description='Chilli powder 1kg', qty=Decimal('15'), unit_price=Decimal('455.79'), amount=Decimal('6836.85')), Item(description='Anchor chain 5m', qty=Decimal('2'), unit_price=Decimal('1690.78'), amount=Decimal('3381.56')), Item(description='Reading lens', qty=Decimal('9'), unit_price=Decimal('956.59'), amount=Decimal('8609.31'))]","[Item(description='Chilli powder 1kg', qty=Decimal('15'), unit_price=Decimal('455.79'), amount=Decimal('6836.85')), Item(description='Anchor chain 5m', qty=None, unit_price=Decimal('1690.78'), amount=Decimal('3381.56')), Item(description='Reading lens', qty=None, unit_price=Decimal('956.59'), amount=Decimal('8609.31'))]"

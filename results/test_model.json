@@ -1,0 +1,31 @@
+{
+ "split": "test",
+ "documents": 75,
+ "header_field_accuracy": {
+  "geometry": {
+   "invoice_no": 0.853,
+   "date": 1.0,
+   "vendor": 1.0,
+   "currency": 1.0,
+   "total": 1.0
+  },
+  "model": {
+   "invoice_no": 0.84,
+   "date": 0.947,
+   "vendor": 0.667,
+   "currency": 0.52,
+   "total": 1.0
+  }
+ },
+ "all_five_header_fields_correct": {
+  "geometry": 0.853,
+  "model": 0.36
+ },
+ "model_bad_json": 0,
+ "geometry_and_model_agree_on_all_five": {
+  "documents": 29,
+  "geometry_fully_correct": 27,
+  "geometry_wrong": 2
+ },
+ "model_seconds_per_document": 9.87
+}

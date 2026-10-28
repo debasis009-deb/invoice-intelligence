@@ -1,0 +1,374 @@
+doc,engine,field,flagged,truth,got
+P1_01,oracle,invoice_no,True,BL-25-45056,None
+P1_01,oracle,vendor,True,Coral Bay Marine,Coral Bay Marine COMMERCIAL
+P1_01,oracle,subtotal,True,40608.70,None
+P1_01,oracle,rounding,True,-0.14,0
+P1_02,oracle,invoice_no,True,INV-26-53835,None
+P1_02,oracle,vendor,True,Tandoor Spice Mills,Tandoor Spice Mills COMMERCIAL
+P1_02,oracle,subtotal,True,19562.35,None
+P1_02,oracle,rounding,True,0.43,0
+P1_03,oracle,invoice_no,True,BL-26-37849,None
+P1_03,oracle,vendor,True,Ridgeway Paints,Ridgeway Paints COMMERCIAL
+P1_03,oracle,subtotal,True,46481.53,None
+P1_04,oracle,invoice_no,True,BL-26-90183,None
+P1_04,oracle,vendor,True,Lunar Optics,Lunar Optics COMMERCIAL
+P1_04,oracle,subtotal,True,9645.75,None
+P1_05,oracle,invoice_no,True,INV-26-00548,None
+P1_05,oracle,vendor,True,Sapphire Garments,Sapphire Garments COMMERCIAL
+P1_05,oracle,subtotal,True,7185.18,None
+P1_05,oracle,rounding,True,-0.04,0
+P1_06,oracle,invoice_no,True,R-26-71117,None
+P1_06,oracle,vendor,True,Bridgeport Bearings,Bridgeport Bearings COMMERCIAL
+P1_06,oracle,subtotal,True,16601.05,None
+P1_07,oracle,invoice_no,True,SI-25-29041,None
+P1_07,oracle,vendor,True,Fernhill Nursery,Fernhill Nursery COMMERCIAL
+P1_07,oracle,subtotal,True,37710.04,None
+P1_07,oracle,rounding,True,0.15,0
+P1_08,oracle,invoice_no,True,BL-25-85230,None
+P1_08,oracle,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply COMMERCIAL
+P1_08,oracle,subtotal,True,46635.55,None
+P1_08,oracle,rounding,True,0.34,0
+P1_09,oracle,invoice_no,True,INV-26-88260,None
+P1_09,oracle,vendor,True,Ridgeway Paints,Ridgeway Paints COMMERCIAL
+P1_09,oracle,subtotal,True,58773.69,None
+P1_10,oracle,invoice_no,True,R-25-54006,None
+P1_10,oracle,vendor,True,Sapphire Garments,Sapphire Garments COMMERCIAL
+P1_10,oracle,subtotal,True,73273.34,None
+P1_11,oracle,invoice_no,True,INV-26-14627,None
+P1_11,oracle,vendor,True,Ridgeway Paints,Ridgeway Paints COMMERCIAL
+P1_11,oracle,subtotal,True,11487.24,None
+P1_11,oracle,rounding,True,-0.22,0
+P1_12,oracle,invoice_no,True,R-25-38128,None
+P1_12,oracle,vendor,True,Coral Bay Marine,Coral Bay Marine COMMERCIAL
+P1_12,oracle,subtotal,True,41944.82,None
+P1_13,oracle,invoice_no,True,SI-25-52225,None
+P1_13,oracle,vendor,True,Lunar Optics,Lunar Optics COMMERCIAL
+P1_13,oracle,subtotal,True,87039.19,None
+P1_13,oracle,rounding,True,-0.25,0
+P1_14,oracle,invoice_no,True,BL-25-11096,None
+P1_14,oracle,vendor,True,Ridgeway Paints,Ridgeway Paints COMMERCIAL
+P1_14,oracle,subtotal,True,26830.61,None
+P1_15,oracle,invoice_no,True,SI-25-66049,None
+P1_15,oracle,vendor,True,Bridgeport Bearings,Bridgeport Bearings COMMERCIAL
+P1_15,oracle,subtotal,True,22869.15,None
+P1_16,oracle,invoice_no,True,R-26-15848,None
+P1_16,oracle,vendor,True,Fernhill Nursery,Fernhill Nursery COMMERCIAL
+P1_16,oracle,subtotal,True,41785.67,None
+P1_17,oracle,invoice_no,True,BL-25-17969,None
+P1_17,oracle,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply COMMERCIAL
+P1_17,oracle,subtotal,True,22097.25,None
+P1_18,oracle,invoice_no,True,SI-25-18241,None
+P1_18,oracle,vendor,True,Lunar Optics,Lunar Optics COMMERCIAL
+P1_18,oracle,subtotal,True,29324.14,None
+P1_19,oracle,invoice_no,True,INV-26-46684,None
+P1_19,oracle,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply COMMERCIAL
+P1_19,oracle,subtotal,True,40699.73,None
+P1_20,oracle,invoice_no,True,R-25-79460,None
+P1_20,oracle,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply COMMERCIAL
+P1_20,oracle,subtotal,True,39610.05,None
+P2_01,oracle,invoice_no,True,R-26-43619,None
+P2_01,oracle,vendor,True,Lunar Optics,Lunar Optics CREDIT
+P2_01,oracle,subtotal,True,57627.96,None
+P2_01,oracle,total,True,68001.00,None
+P2_02,oracle,invoice_no,True,BL-25-30454,None
+P2_02,oracle,vendor,True,Sapphire Garments,Sapphire Garments CREDIT
+P2_02,oracle,subtotal,True,21703.29,None
+P2_02,oracle,total,True,25609.88,None
+P2_03,oracle,invoice_no,True,BL-25-71598,None
+P2_03,oracle,vendor,True,Coral Bay Marine,Coral Bay Marine CREDIT
+P2_03,oracle,subtotal,True,4740.27,None
+P2_03,oracle,total,True,5214.30,None
+P2_04,oracle,invoice_no,True,SI-26-58690,None
+P2_04,oracle,vendor,True,Tandoor Spice Mills,Tandoor Spice Mills CREDIT
+P2_04,oracle,subtotal,True,35278.67,None
+P2_04,oracle,total,True,38806.54,None
+P2_05,oracle,invoice_no,True,BL-25-78750,None
+P2_05,oracle,vendor,True,Bridgeport Bearings,Bridgeport Bearings CREDIT
+P2_05,oracle,subtotal,True,15994.44,None
+P2_05,oracle,discount,True,799.72,0
+P2_05,oracle,total,True,18234.00,None
+P2_06,oracle,invoice_no,True,R-25-54811,None
+P2_06,oracle,vendor,True,Lunar Optics,Lunar Optics CREDIT
+P2_06,oracle,subtotal,True,38646.40,None
+P2_06,oracle,total,True,40578.72,None
+P2_07,oracle,invoice_no,True,SI-25-12945,None
+P2_07,oracle,vendor,True,Sapphire Garments,Sapphire Garments CREDIT
+P2_07,oracle,subtotal,True,75502.57,None
+P2_07,oracle,total,True,89093.00,None
+P2_08,oracle,invoice_no,True,BL-26-27808,None
+P2_08,oracle,vendor,True,Fernhill Nursery,Fernhill Nursery CREDIT
+P2_08,oracle,subtotal,True,42834.34,None
+P2_08,oracle,total,True,51401.21,None
+P2_09,oracle,invoice_no,True,SI-26-04089,None
+P2_09,oracle,vendor,True,Coral Bay Marine,Coral Bay Marine CREDIT
+P2_09,oracle,subtotal,True,80853.65,None
+P2_09,oracle,discount,True,8085.37,0
+P2_09,oracle,total,True,85867.00,None
+P2_10,oracle,invoice_no,True,R-25-16357,None
+P2_10,oracle,vendor,True,Lunar Optics,Lunar Optics CREDIT
+P2_10,oracle,subtotal,True,18978.09,None
+P2_10,oracle,discount,True,1897.81,0
+P2_10,oracle,total,True,17934.29,None
+P2_11,oracle,invoice_no,True,INV-25-10800,None
+P2_11,oracle,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply CREDIT
+P2_11,oracle,subtotal,True,17400.03,None
+P2_11,oracle,discount,True,2610.00,0
+P2_11,oracle,total,True,16269.00,None
+P2_12,oracle,invoice_no,True,SI-26-36438,None
+P2_12,oracle,vendor,True,Fernhill Nursery,Fernhill Nursery CREDIT
+P2_12,oracle,subtotal,True,26901.75,None
+P2_12,oracle,discount,True,2690.18,0
+P2_12,oracle,total,True,28569.65,None
+P2_13,oracle,invoice_no,True,INV-25-81556,None
+P2_13,oracle,vendor,True,Bridgeport Bearings,Bridgeport Bearings CREDIT
+P2_13,oracle,subtotal,True,88154.33,None
+P2_13,oracle,total,True,98732.85,None
+P2_14,oracle,invoice_no,True,INV-26-70898,None
+P2_14,oracle,vendor,True,Ridgeway Paints,Ridgeway Paints CREDIT
+P2_14,oracle,subtotal,True,16266.98,None
+P2_14,oracle,total,True,18219.02,None
+P2_15,oracle,invoice_no,True,BL-25-09299,None
+P2_15,oracle,vendor,True,Fernhill Nursery,Fernhill Nursery CREDIT
+P2_15,oracle,subtotal,True,888.91,None
+P2_15,oracle,discount,True,133.34,0
+P2_15,oracle,total,True,891.57,None
+P2_16,oracle,invoice_no,True,INV-25-91532,None
+P2_16,oracle,vendor,True,Sapphire Garments,Sapphire Garments CREDIT
+P2_16,oracle,subtotal,True,62403.80,None
+P2_16,oracle,total,True,65523.99,None
+P2_17,oracle,invoice_no,True,R-26-53501,None
+P2_17,oracle,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply CREDIT
+P2_17,oracle,subtotal,True,20397.32,None
+P2_17,oracle,discount,True,3059.60,0
+P2_17,oracle,total,True,18204.61,None
+P2_18,oracle,invoice_no,True,R-26-50178,None
+P2_18,oracle,vendor,True,Tandoor Spice Mills,Tandoor Spice Mills CREDIT
+P2_18,oracle,subtotal,True,39182.15,None
+P2_18,oracle,total,True,43884.00,None
+P2_19,oracle,invoice_no,True,BL-25-79650,None
+P2_19,oracle,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply CREDIT
+P2_19,oracle,subtotal,True,29579.99,None
+P2_19,oracle,discount,True,4437.00,0
+P2_19,oracle,total,True,26400.14,None
+P2_20,oracle,invoice_no,True,BL-26-24290,None
+P2_20,oracle,vendor,True,Sapphire Garments,Sapphire Garments CREDIT
+P2_20,oracle,subtotal,True,38546.23,None
+P2_20,oracle,discount,True,5781.93,0
+P2_20,oracle,total,True,34402.52,None
+P3_01,oracle,subtotal,True,25144.28,None
+P3_02,oracle,subtotal,True,25729.70,None
+P3_03,oracle,subtotal,True,68120.60,None
+P3_03,oracle,discount,True,6812.06,0
+P3_04,oracle,subtotal,True,52812.36,None
+P3_04,oracle,discount,True,5281.24,0
+P3_05,oracle,subtotal,True,14751.38,None
+P3_06,oracle,subtotal,True,40314.89,None
+P3_07,oracle,subtotal,True,7825.37,None
+P3_08,oracle,subtotal,True,39627.36,None
+P3_09,oracle,subtotal,True,20862.51,None
+P3_10,oracle,subtotal,True,42313.99,None
+P3_11,oracle,subtotal,True,76677.97,None
+P3_11,oracle,discount,True,3833.90,0
+P3_12,oracle,subtotal,True,69046.53,None
+P3_13,oracle,subtotal,True,48573.47,None
+P3_14,oracle,subtotal,True,5331.97,None
+P3_15,oracle,subtotal,True,52348.73,None
+P3_16,oracle,subtotal,True,34166.52,None
+P3_17,oracle,subtotal,True,53885.69,None
+P3_17,oracle,discount,True,8082.85,0
+P3_18,oracle,subtotal,True,30862.22,None
+P3_19,oracle,subtotal,True,55500.35,None
+P3_20,oracle,subtotal,True,18827.72,None
+P3_20,oracle,discount,True,2824.16,0
+P1_01,rapidocr,invoice_no,True,BL-25-45056,None
+P1_01,rapidocr,vendor,True,Coral Bay Marine,Coral BayMarine COMMERCIALINVOICE
+P1_01,rapidocr,subtotal,True,40608.70,None
+P1_01,rapidocr,rounding,True,-0.14,0
+P1_02,rapidocr,invoice_no,True,INV-26-53835,None
+P1_02,rapidocr,vendor,True,Tandoor Spice Mills,Tandoor Spice Mills COMMERCIALINVOICE
+P1_02,rapidocr,subtotal,True,19562.35,None
+P1_02,rapidocr,rounding,True,0.43,0
+P1_03,rapidocr,invoice_no,True,BL-26-37849,None
+P1_03,rapidocr,vendor,True,Ridgeway Paints,Ridgeway Paints COMMERCIALINVOICE
+P1_03,rapidocr,subtotal,True,46481.53,None
+P1_04,rapidocr,invoice_no,True,BL-26-90183,None
+P1_04,rapidocr,vendor,True,Lunar Optics,Lunar Optics COMMERCIALINVOICE
+P1_04,rapidocr,subtotal,True,9645.75,None
+P1_05,rapidocr,invoice_no,True,INV-26-00548,None
+P1_05,rapidocr,vendor,True,Sapphire Garments,Sapphire Garments COMMERCIALINVOICE
+P1_05,rapidocr,subtotal,True,7185.18,None
+P1_05,rapidocr,rounding,True,-0.04,0
+P1_06,rapidocr,invoice_no,True,R-26-71117,None
+P1_06,rapidocr,vendor,True,Bridgeport Bearings,BridgeportBearings COMMERCIALINVOICE
+P1_06,rapidocr,subtotal,True,16601.05,None
+P1_07,rapidocr,invoice_no,True,SI-25-29041,None
+P1_07,rapidocr,vendor,True,Fernhill Nursery,Fernhill Nursery COMMERCIALINVOICE
+P1_07,rapidocr,subtotal,True,37710.04,None
+P1_07,rapidocr,rounding,True,0.15,0
+P1_08,rapidocr,invoice_no,True,BL-25-85230,None
+P1_08,rapidocr,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply COMMERCIALINVOICE
+P1_08,rapidocr,subtotal,True,46635.55,None
+P1_08,rapidocr,rounding,True,0.34,0
+P1_09,rapidocr,invoice_no,True,INV-26-88260,None
+P1_09,rapidocr,vendor,True,Ridgeway Paints,RidgewayPaints COMMERCIALINVOICE
+P1_09,rapidocr,subtotal,True,58773.69,None
+P1_10,rapidocr,invoice_no,True,R-25-54006,None
+P1_10,rapidocr,vendor,True,Sapphire Garments,SapphireGarments COMMERCIALINVOICE
+P1_10,rapidocr,subtotal,True,73273.34,None
+P1_11,rapidocr,invoice_no,True,INV-26-14627,None
+P1_11,rapidocr,vendor,True,Ridgeway Paints,RidgewayPaints COMMERCIALINVOICE
+P1_11,rapidocr,subtotal,True,11487.24,None
+P1_11,rapidocr,rounding,True,-0.22,0
+P1_12,rapidocr,invoice_no,True,R-25-38128,None
+P1_12,rapidocr,vendor,True,Coral Bay Marine,Coral Bay Marine COMMERCIALINVOICE
+P1_12,rapidocr,subtotal,True,41944.82,None
+P1_13,rapidocr,invoice_no,True,SI-25-52225,None
+P1_13,rapidocr,vendor,True,Lunar Optics,Lunar Optics COMMERCIALINVOICE
+P1_13,rapidocr,subtotal,True,87039.19,None
+P1_13,rapidocr,rounding,True,-0.25,0
+P1_14,rapidocr,invoice_no,True,BL-25-11096,None
+P1_14,rapidocr,vendor,True,Ridgeway Paints,Ridgeway Paints COMMERCIALINVOICE
+P1_14,rapidocr,subtotal,True,26830.61,None
+P1_15,rapidocr,invoice_no,True,SI-25-66049,None
+P1_15,rapidocr,vendor,True,Bridgeport Bearings,BridgeportBearings COMMERCIALINVOICE
+P1_15,rapidocr,subtotal,True,22869.15,None
+P1_16,rapidocr,invoice_no,True,R-26-15848,None
+P1_16,rapidocr,vendor,True,Fernhill Nursery,Fernhill Nursery COMMERCIALINVOICE
+P1_16,rapidocr,subtotal,True,41785.67,None
+P1_17,rapidocr,invoice_no,True,BL-25-17969,None
+P1_17,rapidocr,vendor,True,Cobalt Labs Supply,Cobalt LabsSupply COMMERCIALINVOICE
+P1_17,rapidocr,subtotal,True,22097.25,None
+P1_18,rapidocr,invoice_no,True,SI-25-18241,None
+P1_18,rapidocr,vendor,True,Lunar Optics,Lunar Optics COMMERCIALINVOICE
+P1_18,rapidocr,subtotal,True,29324.14,None
+P1_19,rapidocr,invoice_no,True,INV-26-46684,None
+P1_19,rapidocr,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply COMMERCIALINVOICE
+P1_19,rapidocr,subtotal,True,40699.73,None
+P1_20,rapidocr,invoice_no,True,R-25-79460,None
+P1_20,rapidocr,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply COMMERCIALINVOICE
+P1_20,rapidocr,subtotal,True,39610.05,None
+P2_01,rapidocr,invoice_no,True,R-26-43619,None
+P2_01,rapidocr,vendor,True,Lunar Optics,Lunar Optics CREDITBILL
+P2_01,rapidocr,subtotal,True,57627.96,None
+P2_01,rapidocr,total,True,68001.00,None
+P2_02,rapidocr,invoice_no,True,BL-25-30454,None
+P2_02,rapidocr,vendor,True,Sapphire Garments,Sapphire Garments CREDITBILL
+P2_02,rapidocr,subtotal,True,21703.29,None
+P2_02,rapidocr,total,True,25609.88,None
+P2_03,rapidocr,invoice_no,True,BL-25-71598,None
+P2_03,rapidocr,vendor,True,Coral Bay Marine,Coral BayMarine CREDITBILL
+P2_03,rapidocr,subtotal,True,4740.27,None
+P2_03,rapidocr,total,True,5214.30,None
+P2_04,rapidocr,invoice_no,True,SI-26-58690,None
+P2_04,rapidocr,vendor,True,Tandoor Spice Mills,Tandoor Spice Mills CREDITBILL
+P2_04,rapidocr,subtotal,True,35278.67,None
+P2_04,rapidocr,total,True,38806.54,None
+P2_05,rapidocr,invoice_no,True,BL-25-78750,None
+P2_05,rapidocr,vendor,True,Bridgeport Bearings,BridgeportBearings CREDITBILL
+P2_05,rapidocr,subtotal,True,15994.44,None
+P2_05,rapidocr,discount,True,799.72,0
+P2_05,rapidocr,total,True,18234.00,None
+P2_06,rapidocr,invoice_no,True,R-25-54811,None
+P2_06,rapidocr,vendor,True,Lunar Optics,Lunar Optics CREDITBILL
+P2_06,rapidocr,subtotal,True,38646.40,None
+P2_06,rapidocr,total,True,40578.72,None
+P2_07,rapidocr,invoice_no,True,SI-25-12945,None
+P2_07,rapidocr,vendor,True,Sapphire Garments,Sapphire Garments CREDITBILL
+P2_07,rapidocr,subtotal,True,75502.57,None
+P2_07,rapidocr,total,True,89093.00,None
+P2_08,rapidocr,invoice_no,True,BL-26-27808,None
+P2_08,rapidocr,vendor,True,Fernhill Nursery,Fernhill Nursery CREDITBILL
+P2_08,rapidocr,subtotal,True,42834.34,None
+P2_08,rapidocr,total,True,51401.21,None
+P2_09,rapidocr,invoice_no,True,SI-26-04089,None
+P2_09,rapidocr,vendor,True,Coral Bay Marine,Coral Bay Marine CREDITBILL
+P2_09,rapidocr,subtotal,True,80853.65,None
+P2_09,rapidocr,discount,True,8085.37,0
+P2_09,rapidocr,total,True,85867.00,None
+P2_10,rapidocr,invoice_no,True,R-25-16357,None
+P2_10,rapidocr,vendor,True,Lunar Optics,Lunar Optics CREDITBILL
+P2_10,rapidocr,subtotal,True,18978.09,None
+P2_10,rapidocr,discount,True,1897.81,0
+P2_10,rapidocr,total,True,17934.29,None
+P2_11,rapidocr,invoice_no,True,INV-25-10800,None
+P2_11,rapidocr,vendor,True,Cobalt Labs Supply,CobaltLabsSupply CREDITBILL
+P2_11,rapidocr,subtotal,True,17400.03,None
+P2_11,rapidocr,discount,True,2610.00,0
+P2_11,rapidocr,total,True,16269.00,None
+P2_12,rapidocr,invoice_no,True,SI-26-36438,None
+P2_12,rapidocr,vendor,True,Fernhill Nursery,Fernhill Nursery CREDIT
+P2_12,rapidocr,subtotal,True,26901.75,None
+P2_12,rapidocr,discount,True,2690.18,0
+P2_12,rapidocr,total,True,28569.65,None
+P2_13,rapidocr,invoice_no,True,INV-25-81556,None
+P2_13,rapidocr,vendor,True,Bridgeport Bearings,Bridgeport Bearings CREDITBILL
+P2_13,rapidocr,subtotal,True,88154.33,None
+P2_13,rapidocr,total,True,98732.85,None
+P2_14,rapidocr,invoice_no,True,INV-26-70898,None
+P2_14,rapidocr,vendor,True,Ridgeway Paints,Ridgeway Paints CREDITBILL
+P2_14,rapidocr,subtotal,True,16266.98,None
+P2_14,rapidocr,total,True,18219.02,None
+P2_15,rapidocr,invoice_no,True,BL-25-09299,None
+P2_15,rapidocr,vendor,True,Fernhill Nursery,Fernhill Nursery CREDITBILL
+P2_15,rapidocr,subtotal,True,888.91,None
+P2_15,rapidocr,discount,True,133.34,0
+P2_15,rapidocr,total,True,891.57,None
+P2_16,rapidocr,invoice_no,True,INV-25-91532,None
+P2_16,rapidocr,vendor,True,Sapphire Garments,Sapphire Garments CREDITBILL
+P2_16,rapidocr,subtotal,True,62403.80,None
+P2_16,rapidocr,total,True,65523.99,None
+P2_17,rapidocr,invoice_no,True,R-26-53501,None
+P2_17,rapidocr,vendor,True,Cobalt Labs Supply,Cobalt Labs Supply CREDITBILL
+P2_17,rapidocr,subtotal,True,20397.32,None
+P2_17,rapidocr,discount,True,3059.60,0
+P2_17,rapidocr,total,True,18204.61,None
+P2_18,rapidocr,invoice_no,True,R-26-50178,None
+P2_18,rapidocr,vendor,True,Tandoor Spice Mills,Tandoor Spice Mills CREDITBILL
+P2_18,rapidocr,subtotal,True,39182.15,None
+P2_18,rapidocr,total,True,43884.00,None
+P2_19,rapidocr,invoice_no,True,BL-25-79650,None
+P2_19,rapidocr,vendor,True,Cobalt Labs Supply,Cobalt LabsSupply CREDITBILL
+P2_19,rapidocr,subtotal,True,29579.99,None
+P2_19,rapidocr,discount,True,4437.00,0
+P2_19,rapidocr,total,True,26400.14,None
+P2_20,rapidocr,invoice_no,True,BL-26-24290,None
+P2_20,rapidocr,vendor,True,Sapphire Garments,Sapphire Garments CREDITBILL
+P2_20,rapidocr,subtotal,True,38546.23,None
+P2_20,rapidocr,discount,True,5781.93,0
+P2_20,rapidocr,total,True,34402.52,None
+P3_01,rapidocr,subtotal,True,25144.28,None
+P3_02,rapidocr,invoice_no,True,SI-25-47807,Sl-25-47807
+P3_02,rapidocr,subtotal,True,25729.70,None
+P3_03,rapidocr,subtotal,True,68120.60,None
+P3_03,rapidocr,discount,True,6812.06,0
+P3_04,rapidocr,invoice_no,True,SI-26-87877,Sl-26-87877
+P3_04,rapidocr,subtotal,True,52812.36,None
+P3_04,rapidocr,discount,True,5281.24,0
+P3_05,rapidocr,subtotal,True,14751.38,None
+P3_06,rapidocr,subtotal,True,40314.89,None
+P3_07,rapidocr,subtotal,True,7825.37,None
+P3_08,rapidocr,subtotal,True,39627.36,None
+P3_09,rapidocr,invoice_no,True,SI-25-34786,Sl-25-34786
+P3_09,rapidocr,subtotal,True,20862.51,None
+P3_10,rapidocr,subtotal,True,42313.99,None
+P3_11,rapidocr,subtotal,True,76677.97,None
+P3_11,rapidocr,discount,True,3833.90,0
+P3_11,rapidocr,items,True,"[Item(description='Test tube rack', qty=Decimal('18'), unit_price=Decimal('269.44'), amount=Decimal('4849.92')), Item(description='Denim jacket', qty=Decimal('8'), unit_price=Decimal('1617.66'), amount=Decimal('12941.28')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('475.42'), amount=Decimal('4278.78')), Item(description='Ball bearing', qty=Decimal('17'), unit_price=Decimal('375.51'), amount=Decimal('6383.67')), Item(description='Paint tin 4L', qty=Decimal('11'), unit_price=Decimal('1714.68'), amount=Decimal('18861.48')), Item(description='Anchor chain 5m', qty=Decimal('18'), unit_price=Decimal('1587.82'), amount=Decimal('28580.76')), Item(description='Reading lens', qty=Decimal('2'), unit_price=Decimal('391.04'), amount=Decimal('782.08'))]","[Item(description='Testtuberack', qty=Decimal('18'), unit_price=Decimal('269.44'), amount=Decimal('4849.92')), Item(description='Denimjacket', qty=Decimal('8'), unit_price=Decimal('1617.66'), amount=Decimal('12941.28')), Item(description='Chillipowder1kg', qty=Decimal('6'), unit_price=Decimal('475.42'), amount=Decimal('4278.78')), Item(description='Ball bearing', qty=Decimal('17'), unit_price=Decimal('375.51'), amount=Decimal('6383.67')), Item(description='Painttin4L', qty=Decimal('11'), unit_price=Decimal('1714.68'), amount=Decimal('18861.48')), Item(description='Anchorchain5m', qty=Decimal('18'), unit_price=Decimal('1587.82'), amount=Decimal('28580.76')), Item(description='Readinglens', qty=Decimal('2'), unit_price=Decimal('391.04'), amount=Decimal('782.08'))]"
+P3_12,rapidocr,invoice_no,True,SI-26-62157,Sl-26-62157
+P3_12,rapidocr,subtotal,True,69046.53,None
+P3_12,rapidocr,items,True,"[Item(description='Chilli powder 1kg', qty=Decimal('1'), unit_price=Decimal('191.57'), amount=Decimal('191.57')), Item(description='Test tube rack', qty=Decimal('9'), unit_price=Decimal('192.81'), amount=Decimal('1735.29')), Item(description='Reading lens', qty=Decimal('17'), unit_price=Decimal('989.09'), amount=Decimal('16814.53')), Item(description='Denim jacket', qty=Decimal('11'), unit_price=Decimal('2070.45'), amount=Decimal('22774.95')), Item(description='Anchor chain 5m', qty=Decimal('12'), unit_price=Decimal('1872.03'), amount=Decimal('22464.36')), Item(description='Ball bearing', qty=Decimal('14'), unit_price=Decimal('48.06'), amount=Decimal('672.84')), Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('231.21'), amount=Decimal('4392.99'))]","[Item(description='Chillipowder1kg', qty=Decimal('1'), unit_price=Decimal('191.57'), amount=Decimal('191.57')), Item(description='Testtuberack', qty=Decimal('6'), unit_price=Decimal('192.81'), amount=Decimal('1735.29')), Item(description='Reading lens', qty=Decimal('17'), unit_price=Decimal('989.09'), amount=Decimal('16814.53')), Item(description='Denimjacket', qty=Decimal('11'), unit_price=Decimal('2070.45'), amount=Decimal('22774.95')), Item(description='Anchorchain5m', qty=Decimal('12'), unit_price=Decimal('1872.03'), amount=Decimal('22464.36')), Item(description='Ball bearing', qty=Decimal('14'), unit_price=Decimal('48.06'), amount=Decimal('672.84')), Item(description='Safety goggles', qty=Decimal('19'), unit_price=Decimal('231.21'), amount=Decimal('4392.99'))]"
+P3_13,rapidocr,invoice_no,True,SI-26-88182,Sl-26-88182
+P3_13,rapidocr,subtotal,True,48573.47,None
+P3_14,rapidocr,invoice_no,True,SI-26-76802,Sl-26-76802
+P3_14,rapidocr,subtotal,True,5331.97,None
+P3_15,rapidocr,subtotal,True,52348.73,None
+P3_16,rapidocr,subtotal,True,34166.52,None
+P3_17,rapidocr,subtotal,True,53885.69,None
+P3_17,rapidocr,discount,True,8082.85,0
+P3_17,rapidocr,items,True,"[Item(description='Anchor chain 5m', qty=Decimal('14'), unit_price=Decimal('2253.98'), amount=Decimal('31555.72')), Item(description='Chilli powder 1kg', qty=Decimal('9'), unit_price=Decimal('373.26'), amount=Decimal('3359.34')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('348.33'), amount=Decimal('5921.61')), Item(description='Fern pot', qty=Decimal('19'), unit_price=Decimal('104.79'), amount=Decimal('1991.01')), Item(description='Paint tin 4L', qty=Decimal('9'), unit_price=Decimal('1025.73'), amount=Decimal('9231.57')), Item(description='Rope coil 20m', qty=Decimal('7'), unit_price=Decimal('260.92'), amount=Decimal('1826.44'))]","[Item(description='Anchorchain5m', qty=Decimal('14'), unit_price=Decimal('2253.98'), amount=Decimal('31555.72')), Item(description='Chillipowder1kg', qty=Decimal('6'), unit_price=Decimal('373.26'), amount=Decimal('3359.34')), Item(description='Safety goggles', qty=Decimal('17'), unit_price=Decimal('348.33'), amount=Decimal('5921.61')), Item(description='Fernpot', qty=Decimal('19'), unit_price=Decimal('104.79'), amount=Decimal('1991.01')), Item(description='Painttin4L', qty=Decimal('9'), unit_price=Decimal('1025.73'), amount=Decimal('9231.57')), Item(description='Ropecoil20m', qty=Decimal('7'), unit_price=Decimal('260.92'), amount=Decimal('1826.44'))]"
+P3_18,rapidocr,subtotal,True,30862.22,None
+P3_19,rapidocr,invoice_no,True,SI-25-77987,Sl-25-77987
+P3_19,rapidocr,subtotal,True,55500.35,None
+P3_20,rapidocr,invoice_no,True,SI-25-81924,Sl-25-81924
+P3_20,rapidocr,subtotal,True,18827.72,None
+P3_20,rapidocr,discount,True,2824.16,0

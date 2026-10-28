@@ -1,0 +1,122 @@
+{
+ "oracle": {
+  "documents": 75,
+  "field_accuracy": {
+   "invoice_no": 1.0,
+   "date": 1.0,
+   "vendor": 1.0,
+   "currency": 1.0,
+   "subtotal": 1.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 1.0,
+   "items": 1.0
+  },
+  "all_fields_correct": 1.0,
+  "item_f1": 1.0,
+  "all_fields_correct_by_template": {
+   "H1": 1.0,
+   "H2": 1.0,
+   "H3": 1.0
+  },
+  "review": {
+   "flagged": 0,
+   "wrong_documents": 0,
+   "flag_precision": null,
+   "flag_recall": null,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 0.0
+ },
+ "pdf-text": {
+  "documents": 75,
+  "field_accuracy": {
+   "invoice_no": 1.0,
+   "date": 1.0,
+   "vendor": 1.0,
+   "currency": 1.0,
+   "subtotal": 1.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 1.0,
+   "items": 1.0
+  },
+  "all_fields_correct": 1.0,
+  "item_f1": 1.0,
+  "all_fields_correct_by_template": {
+   "H1": 1.0,
+   "H2": 1.0,
+   "H3": 1.0
+  },
+  "review": {
+   "flagged": 0,
+   "wrong_documents": 0,
+   "flag_precision": null,
+   "flag_recall": null,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 0.02
+ },
+ "rapidocr": {
+  "documents": 75,
+  "field_accuracy": {
+   "invoice_no": 0.853,
+   "date": 1.0,
+   "vendor": 1.0,
+   "currency": 1.0,
+   "subtotal": 1.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 1.0,
+   "items": 0.893
+  },
+  "all_fields_correct": 0.76,
+  "item_f1": 0.971,
+  "all_fields_correct_by_template": {
+   "H1": 1.0,
+   "H2": 0.64,
+   "H3": 0.64
+  },
+  "review": {
+   "flagged": 18,
+   "wrong_documents": 18,
+   "flag_precision": 1.0,
+   "flag_recall": 1.0,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 2.09
+ },
+ "tesseract": {
+  "documents": 75,
+  "field_accuracy": {
+   "invoice_no": 1.0,
+   "date": 1.0,
+   "vendor": 1.0,
+   "currency": 0.987,
+   "subtotal": 1.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 0.987,
+   "items": 0.387
+  },
+  "all_fields_correct": 0.373,
+  "item_f1": 0.853,
+  "all_fields_correct_by_template": {
+   "H1": 0.56,
+   "H2": 0.32,
+   "H3": 0.24
+  },
+  "review": {
+   "flagged": 46,
+   "wrong_documents": 47,
+   "flag_precision": 1.0,
+   "flag_recall": 0.979,
+   "wrong_but_not_flagged": 1
+  },
+  "seconds_per_document": 1.51
+ }
+}

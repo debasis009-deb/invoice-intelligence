@@ -1,0 +1,123 @@
+{
+ "extraction_code": "a65ac89e52",
+ "oracle": {
+  "documents": 40,
+  "field_accuracy": {
+   "invoice_no": 0.0,
+   "date": 1.0,
+   "vendor": 0.5,
+   "currency": 1.0,
+   "subtotal": 0.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 1.0,
+   "items": 1.0
+  },
+  "all_fields_correct": 0.0,
+  "all_fields_exact_text": 0.0,
+  "item_f1": 1.0,
+  "all_fields_correct_by_template": {
+   "S1": 0.0,
+   "S2": 0.0
+  },
+  "review": {
+   "flagged": 40,
+   "wrong_documents": 40,
+   "flag_precision": 1.0,
+   "flag_recall": 1.0,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 0.0
+ },
+ "pdf-text": {
+  "documents": 40,
+  "field_accuracy": {
+   "invoice_no": 0.0,
+   "date": 1.0,
+   "vendor": 0.5,
+   "currency": 1.0,
+   "subtotal": 0.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 1.0,
+   "items": 1.0
+  },
+  "all_fields_correct": 0.0,
+  "all_fields_exact_text": 0.0,
+  "item_f1": 1.0,
+  "all_fields_correct_by_template": {
+   "S1": 0.0,
+   "S2": 0.0
+  },
+  "review": {
+   "flagged": 40,
+   "wrong_documents": 40,
+   "flag_precision": 1.0,
+   "flag_recall": 1.0,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 0.02
+ },
+ "rapidocr": {
+  "documents": 40,
+  "field_accuracy": {
+   "invoice_no": 0.0,
+   "date": 0.975,
+   "vendor": 0.5,
+   "currency": 1.0,
+   "subtotal": 0.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 0.925,
+   "items": 0.9
+  },
+  "all_fields_correct": 0.0,
+  "all_fields_exact_text": 0.0,
+  "item_f1": 0.978,
+  "all_fields_correct_by_template": {
+   "S1": 0.0,
+   "S2": 0.0
+  },
+  "review": {
+   "flagged": 40,
+   "wrong_documents": 40,
+   "flag_precision": 1.0,
+   "flag_recall": 1.0,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 2.15
+ },
+ "tesseract": {
+  "documents": 40,
+  "field_accuracy": {
+   "invoice_no": 0.0,
+   "date": 1.0,
+   "vendor": 0.5,
+   "currency": 0.975,
+   "subtotal": 0.0,
+   "discount": 1.0,
+   "rounding": 0.9,
+   "total": 0.95,
+   "tax_total": 0.975,
+   "items": 0.4
+  },
+  "all_fields_correct": 0.0,
+  "all_fields_exact_text": 0.0,
+  "item_f1": 0.801,
+  "all_fields_correct_by_template": {
+   "S1": 0.0,
+   "S2": 0.0
+  },
+  "review": {
+   "flagged": 40,
+   "wrong_documents": 40,
+   "flag_precision": 1.0,
+   "flag_recall": 1.0,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 1.37
+ }
+}
