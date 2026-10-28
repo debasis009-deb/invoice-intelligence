@@ -1,0 +1,447 @@
+doc,engine,field,flagged,truth,got
+S1_01,oracle,invoice_no,True,SI-26-97753,None
+S1_01,oracle,subtotal,True,25877.03,None
+S1_02,oracle,invoice_no,True,R-26-27920,None
+S1_02,oracle,subtotal,True,26671.98,None
+S1_03,oracle,invoice_no,True,R-25-32643,None
+S1_03,oracle,subtotal,True,42453.80,None
+S1_04,oracle,invoice_no,True,INV-26-34630,None
+S1_04,oracle,subtotal,True,12437.09,None
+S1_05,oracle,invoice_no,True,INV-25-71167,None
+S1_05,oracle,subtotal,True,55292.51,None
+S1_06,oracle,invoice_no,True,SI-25-96186,None
+S1_06,oracle,subtotal,True,92944.16,None
+S1_07,oracle,invoice_no,True,SI-25-51276,None
+S1_07,oracle,subtotal,True,15467.42,None
+S1_08,oracle,invoice_no,True,BL-26-33282,None
+S1_08,oracle,subtotal,True,136773.23,None
+S1_09,oracle,invoice_no,True,SI-26-17594,None
+S1_09,oracle,subtotal,True,46931.51,None
+S1_10,oracle,invoice_no,True,BL-25-68755,None
+S1_10,oracle,subtotal,True,3495.23,None
+S1_11,oracle,invoice_no,True,R-26-75381,None
+S1_11,oracle,subtotal,True,54967.46,None
+S1_12,oracle,invoice_no,True,BL-26-87534,None
+S1_12,oracle,subtotal,True,43495.04,None
+S1_13,oracle,invoice_no,True,BL-25-69320,None
+S1_13,oracle,subtotal,True,21271.52,None
+S1_14,oracle,invoice_no,True,BL-26-99583,None
+S1_14,oracle,subtotal,True,28992.01,None
+S1_15,oracle,invoice_no,True,BL-26-87623,None
+S1_15,oracle,subtotal,True,30891.31,None
+S1_16,oracle,invoice_no,True,INV-26-31329,None
+S1_16,oracle,subtotal,True,38059.03,None
+S1_17,oracle,invoice_no,True,INV-25-17205,None
+S1_17,oracle,subtotal,True,50232.57,None
+S1_18,oracle,invoice_no,True,BL-25-45367,None
+S1_18,oracle,subtotal,True,96240.51,None
+S1_19,oracle,invoice_no,True,BL-26-21213,None
+S1_19,oracle,subtotal,True,41265.74,None
+S1_20,oracle,invoice_no,True,BL-25-34347,None
+S1_20,oracle,subtotal,True,57460.15,None
+S2_01,oracle,invoice_no,True,SI-25-95137,None
+S2_01,oracle,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_01,oracle,subtotal,True,49248.45,None
+S2_02,oracle,invoice_no,True,BL-26-24212,None
+S2_02,oracle,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_02,oracle,subtotal,True,29034.26,None
+S2_03,oracle,invoice_no,True,BL-26-94214,None
+S2_03,oracle,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_03,oracle,subtotal,True,5021.72,None
+S2_04,oracle,invoice_no,True,BL-26-31875,None
+S2_04,oracle,vendor,True,Nimbus Cloud Hardware,Nimbus Cloud Hardware STATEMENT
+S2_04,oracle,subtotal,True,40936.15,None
+S2_05,oracle,invoice_no,True,INV-25-29477,None
+S2_05,oracle,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_05,oracle,subtotal,True,7527.88,None
+S2_06,oracle,invoice_no,True,SI-26-46331,None
+S2_06,oracle,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_06,oracle,subtotal,True,121579.20,None
+S2_07,oracle,invoice_no,True,SI-26-84959,None
+S2_07,oracle,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_07,oracle,subtotal,True,46515.38,None
+S2_08,oracle,invoice_no,True,SI-26-22484,None
+S2_08,oracle,vendor,True,Teakwood Interiors,Teakwood Interiors STATEMENT
+S2_08,oracle,subtotal,True,12546.26,None
+S2_09,oracle,invoice_no,True,SI-26-95984,None
+S2_09,oracle,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_09,oracle,subtotal,True,21429.38,None
+S2_10,oracle,invoice_no,True,SI-25-89748,None
+S2_10,oracle,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_10,oracle,subtotal,True,95964.19,None
+S2_11,oracle,invoice_no,True,SI-26-39529,None
+S2_11,oracle,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_11,oracle,subtotal,True,35663.56,None
+S2_12,oracle,invoice_no,True,R-26-94465,None
+S2_12,oracle,vendor,True,Crescent Dairy Co,Crescent Dairy Co STATEMENT
+S2_12,oracle,subtotal,True,33385.23,None
+S2_13,oracle,invoice_no,True,R-26-33524,None
+S2_13,oracle,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_13,oracle,subtotal,True,7025.93,None
+S2_14,oracle,invoice_no,True,R-26-95602,None
+S2_14,oracle,vendor,True,Nimbus Cloud Hardware,Nimbus Cloud Hardware STATEMENT
+S2_14,oracle,subtotal,True,85717.89,None
+S2_15,oracle,invoice_no,True,BL-26-80096,None
+S2_15,oracle,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_15,oracle,subtotal,True,89902.26,None
+S2_16,oracle,invoice_no,True,SI-26-80173,None
+S2_16,oracle,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_16,oracle,subtotal,True,51681.04,None
+S2_17,oracle,invoice_no,True,SI-25-97720,None
+S2_17,oracle,vendor,True,Delta Ridge Plastics,Delta Ridge Plastics STATEMENT
+S2_17,oracle,subtotal,True,67206.10,None
+S2_18,oracle,invoice_no,True,BL-25-73518,None
+S2_18,oracle,vendor,True,Teakwood Interiors,Teakwood Interiors STATEMENT
+S2_18,oracle,subtotal,True,29653.33,None
+S2_19,oracle,invoice_no,True,SI-26-85053,None
+S2_19,oracle,vendor,True,Delta Ridge Plastics,Delta Ridge Plastics STATEMENT
+S2_19,oracle,subtotal,True,4976.72,None
+S2_20,oracle,invoice_no,True,BL-26-29820,None
+S2_20,oracle,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_20,oracle,subtotal,True,46157.49,None
+S1_01,pdf-text,invoice_no,True,SI-26-97753,None
+S1_01,pdf-text,subtotal,True,25877.03,None
+S1_02,pdf-text,invoice_no,True,R-26-27920,None
+S1_02,pdf-text,subtotal,True,26671.98,None
+S1_03,pdf-text,invoice_no,True,R-25-32643,None
+S1_03,pdf-text,subtotal,True,42453.80,None
+S1_04,pdf-text,invoice_no,True,INV-26-34630,None
+S1_04,pdf-text,subtotal,True,12437.09,None
+S1_05,pdf-text,invoice_no,True,INV-25-71167,None
+S1_05,pdf-text,subtotal,True,55292.51,None
+S1_06,pdf-text,invoice_no,True,SI-25-96186,None
+S1_06,pdf-text,subtotal,True,92944.16,None
+S1_07,pdf-text,invoice_no,True,SI-25-51276,None
+S1_07,pdf-text,subtotal,True,15467.42,None
+S1_08,pdf-text,invoice_no,True,BL-26-33282,None
+S1_08,pdf-text,subtotal,True,136773.23,None
+S1_09,pdf-text,invoice_no,True,SI-26-17594,None
+S1_09,pdf-text,subtotal,True,46931.51,None
+S1_10,pdf-text,invoice_no,True,BL-25-68755,None
+S1_10,pdf-text,subtotal,True,3495.23,None
+S1_11,pdf-text,invoice_no,True,R-26-75381,None
+S1_11,pdf-text,subtotal,True,54967.46,None
+S1_12,pdf-text,invoice_no,True,BL-26-87534,None
+S1_12,pdf-text,subtotal,True,43495.04,None
+S1_13,pdf-text,invoice_no,True,BL-25-69320,None
+S1_13,pdf-text,subtotal,True,21271.52,None
+S1_14,pdf-text,invoice_no,True,BL-26-99583,None
+S1_14,pdf-text,subtotal,True,28992.01,None
+S1_15,pdf-text,invoice_no,True,BL-26-87623,None
+S1_15,pdf-text,subtotal,True,30891.31,None
+S1_16,pdf-text,invoice_no,True,INV-26-31329,None
+S1_16,pdf-text,subtotal,True,38059.03,None
+S1_17,pdf-text,invoice_no,True,INV-25-17205,None
+S1_17,pdf-text,subtotal,True,50232.57,None
+S1_18,pdf-text,invoice_no,True,BL-25-45367,None
+S1_18,pdf-text,subtotal,True,96240.51,None
+S1_19,pdf-text,invoice_no,True,BL-26-21213,None
+S1_19,pdf-text,subtotal,True,41265.74,None
+S1_20,pdf-text,invoice_no,True,BL-25-34347,None
+S1_20,pdf-text,subtotal,True,57460.15,None
+S2_01,pdf-text,invoice_no,True,SI-25-95137,None
+S2_01,pdf-text,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_01,pdf-text,subtotal,True,49248.45,None
+S2_02,pdf-text,invoice_no,True,BL-26-24212,None
+S2_02,pdf-text,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_02,pdf-text,subtotal,True,29034.26,None
+S2_03,pdf-text,invoice_no,True,BL-26-94214,None
+S2_03,pdf-text,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_03,pdf-text,subtotal,True,5021.72,None
+S2_04,pdf-text,invoice_no,True,BL-26-31875,None
+S2_04,pdf-text,vendor,True,Nimbus Cloud Hardware,Nimbus Cloud Hardware STATEMENT
+S2_04,pdf-text,subtotal,True,40936.15,None
+S2_05,pdf-text,invoice_no,True,INV-25-29477,None
+S2_05,pdf-text,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_05,pdf-text,subtotal,True,7527.88,None
+S2_06,pdf-text,invoice_no,True,SI-26-46331,None
+S2_06,pdf-text,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_06,pdf-text,subtotal,True,121579.20,None
+S2_07,pdf-text,invoice_no,True,SI-26-84959,None
+S2_07,pdf-text,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_07,pdf-text,subtotal,True,46515.38,None
+S2_08,pdf-text,invoice_no,True,SI-26-22484,None
+S2_08,pdf-text,vendor,True,Teakwood Interiors,Teakwood Interiors STATEMENT
+S2_08,pdf-text,subtotal,True,12546.26,None
+S2_09,pdf-text,invoice_no,True,SI-26-95984,None
+S2_09,pdf-text,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_09,pdf-text,subtotal,True,21429.38,None
+S2_10,pdf-text,invoice_no,True,SI-25-89748,None
+S2_10,pdf-text,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_10,pdf-text,subtotal,True,95964.19,None
+S2_11,pdf-text,invoice_no,True,SI-26-39529,None
+S2_11,pdf-text,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_11,pdf-text,subtotal,True,35663.56,None
+S2_12,pdf-text,invoice_no,True,R-26-94465,None
+S2_12,pdf-text,vendor,True,Crescent Dairy Co,Crescent Dairy Co STATEMENT
+S2_12,pdf-text,subtotal,True,33385.23,None
+S2_13,pdf-text,invoice_no,True,R-26-33524,None
+S2_13,pdf-text,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_13,pdf-text,subtotal,True,7025.93,None
+S2_14,pdf-text,invoice_no,True,R-26-95602,None
+S2_14,pdf-text,vendor,True,Nimbus Cloud Hardware,Nimbus Cloud Hardware STATEMENT
+S2_14,pdf-text,subtotal,True,85717.89,None
+S2_15,pdf-text,invoice_no,True,BL-26-80096,None
+S2_15,pdf-text,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_15,pdf-text,subtotal,True,89902.26,None
+S2_16,pdf-text,invoice_no,True,SI-26-80173,None
+S2_16,pdf-text,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_16,pdf-text,subtotal,True,51681.04,None
+S2_17,pdf-text,invoice_no,True,SI-25-97720,None
+S2_17,pdf-text,vendor,True,Delta Ridge Plastics,Delta Ridge Plastics STATEMENT
+S2_17,pdf-text,subtotal,True,67206.10,None
+S2_18,pdf-text,invoice_no,True,BL-25-73518,None
+S2_18,pdf-text,vendor,True,Teakwood Interiors,Teakwood Interiors STATEMENT
+S2_18,pdf-text,subtotal,True,29653.33,None
+S2_19,pdf-text,invoice_no,True,SI-26-85053,None
+S2_19,pdf-text,vendor,True,Delta Ridge Plastics,Delta Ridge Plastics STATEMENT
+S2_19,pdf-text,subtotal,True,4976.72,None
+S2_20,pdf-text,invoice_no,True,BL-26-29820,None
+S2_20,pdf-text,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_20,pdf-text,subtotal,True,46157.49,None
+S1_01,rapidocr,invoice_no,True,SI-26-97753,None
+S1_01,rapidocr,subtotal,True,25877.03,None
+S1_02,rapidocr,invoice_no,True,R-26-27920,None
+S1_02,rapidocr,subtotal,True,26671.98,None
+S1_03,rapidocr,invoice_no,True,R-25-32643,None
+S1_03,rapidocr,subtotal,True,42453.80,None
+S1_04,rapidocr,invoice_no,True,INV-26-34630,None
+S1_04,rapidocr,subtotal,True,12437.09,None
+S1_05,rapidocr,invoice_no,True,INV-25-71167,None
+S1_05,rapidocr,subtotal,True,55292.51,None
+S1_06,rapidocr,invoice_no,True,SI-25-96186,None
+S1_06,rapidocr,subtotal,True,92944.16,None
+S1_07,rapidocr,invoice_no,True,SI-25-51276,None
+S1_07,rapidocr,subtotal,True,15467.42,None
+S1_08,rapidocr,invoice_no,True,BL-26-33282,None
+S1_08,rapidocr,subtotal,True,136773.23,None
+S1_09,rapidocr,invoice_no,True,SI-26-17594,None
+S1_09,rapidocr,subtotal,True,46931.51,None
+S1_10,rapidocr,invoice_no,True,BL-25-68755,None
+S1_10,rapidocr,subtotal,True,3495.23,None
+S1_11,rapidocr,invoice_no,True,R-26-75381,None
+S1_11,rapidocr,subtotal,True,54967.46,None
+S1_12,rapidocr,invoice_no,True,BL-26-87534,None
+S1_12,rapidocr,subtotal,True,43495.04,None
+S1_13,rapidocr,invoice_no,True,BL-25-69320,None
+S1_13,rapidocr,subtotal,True,21271.52,None
+S1_14,rapidocr,invoice_no,True,BL-26-99583,None
+S1_14,rapidocr,subtotal,True,28992.01,None
+S1_15,rapidocr,invoice_no,True,BL-26-87623,None
+S1_15,rapidocr,subtotal,True,30891.31,None
+S1_16,rapidocr,invoice_no,True,INV-26-31329,None
+S1_16,rapidocr,subtotal,True,38059.03,None
+S1_17,rapidocr,invoice_no,True,INV-25-17205,None
+S1_17,rapidocr,subtotal,True,50232.57,None
+S1_18,rapidocr,invoice_no,True,BL-25-45367,None
+S1_18,rapidocr,subtotal,True,96240.51,None
+S1_19,rapidocr,invoice_no,True,BL-26-21213,None
+S1_19,rapidocr,subtotal,True,41265.74,None
+S1_20,rapidocr,invoice_no,True,BL-25-34347,None
+S1_20,rapidocr,subtotal,True,57460.15,None
+S2_01,rapidocr,invoice_no,True,SI-25-95137,None
+S2_01,rapidocr,vendor,True,Harvest Moon Grocers,HarvestMoon Grocers STATEMENT
+S2_01,rapidocr,subtotal,True,49248.45,None
+S2_02,rapidocr,invoice_no,True,BL-26-24212,None
+S2_02,rapidocr,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_02,rapidocr,subtotal,True,29034.26,None
+S2_03,rapidocr,invoice_no,True,BL-26-94214,None
+S2_03,rapidocr,vendor,True,Granite Peak Tools,GranitePeakTools STATEMENT
+S2_03,rapidocr,subtotal,True,5021.72,None
+S2_04,rapidocr,invoice_no,True,BL-26-31875,None
+S2_04,rapidocr,vendor,True,Nimbus Cloud Hardware,Nimbus cloud Hardware STATEMENT
+S2_04,rapidocr,subtotal,True,40936.15,None
+S2_05,rapidocr,invoice_no,True,INV-25-29477,None
+S2_05,rapidocr,vendor,True,Granite Peak Tools,GranitePeakTools STATEMENT
+S2_05,rapidocr,subtotal,True,7527.88,None
+S2_06,rapidocr,invoice_no,True,SI-26-46331,None
+S2_06,rapidocr,vendor,True,Harvest Moon Grocers,HarvestMoonGrocers STATEMENT
+S2_06,rapidocr,subtotal,True,121579.20,None
+S2_06,rapidocr,items,True,"[Item(description='Linen shirt', qty=Decimal('10'), unit_price=Decimal('1385.04'), amount=Decimal('13850.40')), Item(description='Glass jar set', qty=Decimal('13'), unit_price=Decimal('467.22'), amount=Decimal('6073.86')), Item(description='Milk powder 1kg', qty=Decimal('19'), unit_price=Decimal('694.01'), amount=Decimal('13186.19')), Item(description='Garden hose 15m', qty=Decimal('9'), unit_price=Decimal('1293.92'), amount=Decimal('11645.28')), Item(description='Router device', qty=Decimal('16'), unit_price=Decimal('1757.49'), amount=Decimal('28119.84')), Item(description='Plastic crate', qty=Decimal('10'), unit_price=Decimal('492.03'), amount=Decimal('4920.30')), Item(description='Oak shelf', qty=Decimal('17'), unit_price=Decimal('2575.49'), amount=Decimal('43783.33'))]","[Item(description='Linen shirt', qty=Decimal('10'), unit_price=Decimal('1385.04'), amount=Decimal('13850.40')), Item(description='Glass jar set', qty=Decimal('13'), unit_price=Decimal('467.22'), amount=Decimal('6073.86')), Item(description='Milk powder 1kg', qty=Decimal('19'), unit_price=Decimal('694.01'), amount=Decimal('13186.19')), Item(description='Garden hose 15m', qty=Decimal('6'), unit_price=Decimal('1293.92'), amount=Decimal('11645.28')), Item(description='Router device', qty=Decimal('16'), unit_price=Decimal('1757.49'), amount=Decimal('28119.84')), Item(description='Plastic crate', qty=Decimal('10'), unit_price=Decimal('492.03'), amount=Decimal('4920.30')), Item(description='Oak shelf', qty=Decimal('17'), unit_price=Decimal('2575.49'), amount=Decimal('43783.33'))]"
+S2_07,rapidocr,invoice_no,True,SI-26-84959,None
+S2_07,rapidocr,date,True,2026-10-19,None
+S2_07,rapidocr,vendor,True,Granite Peak Tools,GranitePeakTools STATEMENT
+S2_07,rapidocr,subtotal,True,46515.38,None
+S2_08,rapidocr,invoice_no,True,SI-26-22484,None
+S2_08,rapidocr,vendor,True,Teakwood Interiors,TeakwoodInteriors STATEMENT
+S2_08,rapidocr,subtotal,True,12546.26,None
+S2_09,rapidocr,invoice_no,True,SI-26-95984,None
+S2_09,rapidocr,vendor,True,Willow Bend Books,WillowBendBooks STATEMENT
+S2_09,rapidocr,subtotal,True,21429.38,None
+S2_10,rapidocr,invoice_no,True,SI-25-89748,None
+S2_10,rapidocr,vendor,True,Opal Coast Textiles,OpalCoastTextiles STATEMENT
+S2_10,rapidocr,subtotal,True,95964.19,None
+S2_10,rapidocr,items,True,"[Item(description='Glass jar set', qty=Decimal('9'), unit_price=Decimal('657.60'), amount=Decimal('5918.40')), Item(description='Router device', qty=Decimal('16'), unit_price=Decimal('3534.27'), amount=Decimal('56548.32')), Item(description='Oak shelf', qty=Decimal('16'), unit_price=Decimal('960.15'), amount=Decimal('15362.40')), Item(description='Plastic crate', qty=Decimal('7'), unit_price=Decimal('244.10'), amount=Decimal('1708.70')), Item(description='Welding rod pack', qty=Decimal('16'), unit_price=Decimal('858.70'), amount=Decimal('13739.20')), Item(description='Paperback novel', qty=Decimal('19'), unit_price=Decimal('141.43'), amount=Decimal('2687.17'))]","[Item(description='Glass jar set', qty=Decimal('6'), unit_price=Decimal('657.60'), amount=Decimal('5918.40')), Item(description='Router device', qty=Decimal('16'), unit_price=Decimal('3534.27'), amount=Decimal('56548.32')), Item(description='Oak shelf', qty=Decimal('16'), unit_price=Decimal('960.15'), amount=Decimal('15362.40')), Item(description='Plastic crate', qty=Decimal('7'), unit_price=Decimal('244.10'), amount=Decimal('1708.70')), Item(description='weldingrodpack', qty=Decimal('16'), unit_price=Decimal('858.70'), amount=Decimal('13739.20')), Item(description='Paperback novel', qty=Decimal('19'), unit_price=Decimal('141.43'), amount=Decimal('2687.17'))]"
+S2_11,rapidocr,invoice_no,True,SI-26-39529,None
+S2_11,rapidocr,vendor,True,Willow Bend Books,WillowBendBooks STATEMENT
+S2_11,rapidocr,subtotal,True,35663.56,None
+S2_12,rapidocr,invoice_no,True,R-26-94465,None
+S2_12,rapidocr,vendor,True,Crescent Dairy Co,CrescentDairyCo STATEMENT
+S2_12,rapidocr,subtotal,True,33385.23,None
+S2_13,rapidocr,invoice_no,True,R-26-33524,None
+S2_13,rapidocr,vendor,True,Willow Bend Books,WillowBendBooks STATEMENT
+S2_13,rapidocr,subtotal,True,7025.93,None
+S2_14,rapidocr,invoice_no,True,R-26-95602,None
+S2_14,rapidocr,vendor,True,Nimbus Cloud Hardware,Nimbus Cloud Hardware STATEMENT
+S2_14,rapidocr,subtotal,True,85717.89,None
+S2_15,rapidocr,invoice_no,True,BL-26-80096,None
+S2_15,rapidocr,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_15,rapidocr,subtotal,True,89902.26,None
+S2_15,rapidocr,items,True,"[Item(description='Oak shelf', qty=Decimal('2'), unit_price=Decimal('3344.57'), amount=Decimal('6689.14')), Item(description='Paperback novel', qty=Decimal('9'), unit_price=Decimal('141.41'), amount=Decimal('1272.69')), Item(description='Garden hose 15m', qty=Decimal('13'), unit_price=Decimal('1146.96'), amount=Decimal('14910.48')), Item(description='Router device', qty=Decimal('19'), unit_price=Decimal('3334.75'), amount=Decimal('63360.25')), Item(description='Welding rod pack', qty=Decimal('10'), unit_price=Decimal('366.97'), amount=Decimal('3669.70'))]","[Item(description='Oak shelf', qty=Decimal('2'), unit_price=Decimal('3344.57'), amount=Decimal('6689.14')), Item(description='Paperback novel', qty=Decimal('6'), unit_price=Decimal('141.41'), amount=Decimal('1272.69')), Item(description='Garden hose15m', qty=Decimal('13'), unit_price=Decimal('1146.96'), amount=Decimal('14910.48')), Item(description='Router device', qty=Decimal('19'), unit_price=Decimal('3334.75'), amount=Decimal('63360.25')), Item(description='weldingrod pack', qty=Decimal('10'), unit_price=Decimal('366.97'), amount=Decimal('3669.70'))]"
+S2_16,rapidocr,invoice_no,True,SI-26-80173,None
+S2_16,rapidocr,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_16,rapidocr,subtotal,True,51681.04,None
+S2_16,rapidocr,tax_total,True,0,51681.04
+S2_17,rapidocr,invoice_no,True,SI-25-97720,None
+S2_17,rapidocr,vendor,True,Delta Ridge Plastics,Delta RidgePlastics STATEMENT
+S2_17,rapidocr,subtotal,True,67206.10,None
+S2_18,rapidocr,invoice_no,True,BL-25-73518,None
+S2_18,rapidocr,vendor,True,Teakwood Interiors,TeakwoodInteriors STATEMENT
+S2_18,rapidocr,subtotal,True,29653.33,None
+S2_19,rapidocr,invoice_no,True,SI-26-85053,None
+S2_19,rapidocr,vendor,True,Delta Ridge Plastics,Delta Ridge Plastics STATEMENT
+S2_19,rapidocr,subtotal,True,4976.72,None
+S2_20,rapidocr,invoice_no,True,BL-26-29820,None
+S2_20,rapidocr,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_20,rapidocr,subtotal,True,46157.49,None
+S2_20,rapidocr,items,True,"[Item(description='Welding rod pack', qty=Decimal('4'), unit_price=Decimal('400.09'), amount=Decimal('1600.36')), Item(description='Milk powder 1kg', qty=Decimal('4'), unit_price=Decimal('381.33'), amount=Decimal('1525.32')), Item(description='Glass jar set', qty=Decimal('5'), unit_price=Decimal('318.69'), amount=Decimal('1593.45')), Item(description='Face towel', qty=Decimal('1'), unit_price=Decimal('94.59'), amount=Decimal('94.59')), Item(description='Router device', qty=Decimal('1'), unit_price=Decimal('2038.42'), amount=Decimal('2038.42')), Item(description='Garden hose 15m', qty=Decimal('9'), unit_price=Decimal('1195.99'), amount=Decimal('10763.91')), Item(description='Oak shelf', qty=Decimal('8'), unit_price=Decimal('3567.68'), amount=Decimal('28541.44'))]","[Item(description='weldingrodpack', qty=Decimal('4'), unit_price=Decimal('400.09'), amount=Decimal('1600.36')), Item(description='Milk powder 1kg', qty=Decimal('4'), unit_price=Decimal('381.33'), amount=Decimal('1525.32')), Item(description='Glass jar set', qty=Decimal('5'), unit_price=Decimal('318.69'), amount=Decimal('1593.45')), Item(description='Facetowel', qty=Decimal('1'), unit_price=Decimal('94.59'), amount=Decimal('94.59')), Item(description='Router device', qty=Decimal('1'), unit_price=Decimal('2038.42'), amount=Decimal('2038.42')), Item(description='Garden hose 15m', qty=Decimal('6'), unit_price=Decimal('1195.99'), amount=Decimal('10763.91')), Item(description='Oak shelf', qty=Decimal('8'), unit_price=Decimal('3567.68'), amount=Decimal('28541.44'))]"
+S1_01,tesseract,invoice_no,True,SI-26-97753,None
+S1_01,tesseract,subtotal,True,25877.03,None
+S1_02,tesseract,invoice_no,True,R-26-27920,None
+S1_02,tesseract,subtotal,True,26671.98,None
+S1_03,tesseract,invoice_no,True,R-25-32643,None
+S1_03,tesseract,subtotal,True,42453.80,None
+S1_03,tesseract,items,True,"[Item(description='Milk powder 1kg', qty=Decimal('6'), unit_price=Decimal('490.51'), amount=Decimal('2943.06')), Item(description='Glass jar set', qty=Decimal('2'), unit_price=Decimal('307.54'), amount=Decimal('615.08')), Item(description='Face towel', qty=Decimal('15'), unit_price=Decimal('303.32'), amount=Decimal('4549.80')), Item(description='Router device', qty=Decimal('8'), unit_price=Decimal('2868.40'), amount=Decimal('22947.20')), Item(description='Welding rod pack', qty=Decimal('13'), unit_price=Decimal('876.82'), amount=Decimal('11398.66'))]","[Item(description='Milk powder 1kg', qty=Decimal('6'), unit_price=Decimal('490.51'), amount=Decimal('2943.06')), Item(description='Router device', qty=Decimal('8'), unit_price=Decimal('2868.40'), amount=Decimal('22947.20')), Item(description='Welding rod pack', qty=Decimal('13'), unit_price=Decimal('876.82'), amount=Decimal('11398.66'))]"
+S1_04,tesseract,invoice_no,True,INV-26-34630,None
+S1_04,tesseract,subtotal,True,12437.09,None
+S1_05,tesseract,invoice_no,True,INV-25-71167,None
+S1_05,tesseract,subtotal,True,55292.51,None
+S1_05,tesseract,items,True,"[Item(description='Linen shirt', qty=Decimal('17'), unit_price=Decimal('2059.57'), amount=Decimal('35012.69')), Item(description='Welding rod pack', qty=Decimal('2'), unit_price=Decimal('887.78'), amount=Decimal('1775.56')), Item(description='Glass jar set', qty=Decimal('9'), unit_price=Decimal('592.55'), amount=Decimal('5332.95')), Item(description='Milk powder 1kg', qty=Decimal('7'), unit_price=Decimal('481.42'), amount=Decimal('3369.94')), Item(description='Router device', qty=Decimal('1'), unit_price=Decimal('3955.69'), amount=Decimal('3955.69')), Item(description='Oak shelf', qty=Decimal('4'), unit_price=Decimal('1461.42'), amount=Decimal('5845.68'))]","[Item(description='Linen shirt', qty=Decimal('17'), unit_price=Decimal('2059.57'), amount=Decimal('35012.69')), Item(description='Welding rod pack', qty=Decimal('2'), unit_price=Decimal('887.78'), amount=Decimal('1775.56')), Item(description='Milk powder 1kg', qty=Decimal('7'), unit_price=Decimal('481.42'), amount=Decimal('3369.94')), Item(description='Router device', qty=Decimal('1'), unit_price=Decimal('3955.69'), amount=Decimal('3955.69')), Item(description='Oak shelf', qty=Decimal('4'), unit_price=Decimal('1461.42'), amount=Decimal('5845.68'))]"
+S1_06,tesseract,invoice_no,True,SI-25-96186,None
+S1_06,tesseract,subtotal,True,92944.16,None
+S1_06,tesseract,items,True,"[Item(description='Paperback novel', qty=Decimal('8'), unit_price=Decimal('174.33'), amount=Decimal('1394.64')), Item(description='Welding rod pack', qty=Decimal('1'), unit_price=Decimal('612.58'), amount=Decimal('612.58')), Item(description='Oak shelf', qty=Decimal('11'), unit_price=Decimal('3167.71'), amount=Decimal('34844.81')), Item(description='Linen shirt', qty=Decimal('20'), unit_price=Decimal('766.27'), amount=Decimal('15325.40')), Item(description='Glass jar set', qty=Decimal('5'), unit_price=Decimal('490.74'), amount=Decimal('2453.70')), Item(description='Garden hose 15m', qty=Decimal('9'), unit_price=Decimal('1251.87'), amount=Decimal('11266.83')), Item(description='Router device', qty=Decimal('10'), unit_price=Decimal('2704.62'), amount=Decimal('27046.20'))]","[Item(description='Paperback novel', qty=Decimal('8'), unit_price=Decimal('174.33'), amount=Decimal('1394.64')), Item(description='Welding rod pack', qty=Decimal('1'), unit_price=Decimal('612.58'), amount=Decimal('612.58')), Item(description='Oak shelf', qty=Decimal('1'), unit_price=Decimal('3167.71'), amount=Decimal('34844.81')), Item(description='Linen shirt', qty=Decimal('20'), unit_price=Decimal('766.27'), amount=Decimal('15325.40')), Item(description='Glass jar set', qty=Decimal('5'), unit_price=Decimal('490.74'), amount=Decimal('2453.70')), Item(description='Garden hose 15m', qty=Decimal('9'), unit_price=Decimal('1251.87'), amount=Decimal('11266.83')), Item(description='Router device', qty=Decimal('10'), unit_price=Decimal('2704.62'), amount=Decimal('27046.20'))]"
+S1_07,tesseract,invoice_no,True,SI-25-51276,None
+S1_07,tesseract,subtotal,True,15467.42,None
+S1_08,tesseract,invoice_no,True,BL-26-33282,None
+S1_08,tesseract,subtotal,True,136773.23,None
+S1_08,tesseract,items,True,"[Item(description='Welding rod pack', qty=Decimal('20'), unit_price=Decimal('703.93'), amount=Decimal('14078.60')), Item(description='Router device', qty=Decimal('20'), unit_price=Decimal('4567.70'), amount=Decimal('91354.00')), Item(description='Face towel', qty=Decimal('10'), unit_price=Decimal('155.01'), amount=Decimal('1550.10')), Item(description='Garden hose 15m', qty=Decimal('8'), unit_price=Decimal('1139.82'), amount=Decimal('9118.56')), Item(description='Glass jar set', qty=Decimal('13'), unit_price=Decimal('223.57'), amount=Decimal('2906.41')), Item(description='Paperback novel', qty=Decimal('7'), unit_price=Decimal('279.58'), amount=Decimal('1957.06')), Item(description='Linen shirt', qty=Decimal('15'), unit_price=Decimal('1053.90'), amount=Decimal('15808.50'))]","[Item(description='Welding rod pack', qty=Decimal('20'), unit_price=Decimal('703.93'), amount=Decimal('14078.60')), Item(description='Router device', qty=Decimal('20'), unit_price=Decimal('4567.70'), amount=Decimal('91354.00')), Item(description='Face towel', qty=Decimal('10'), unit_price=Decimal('155.01'), amount=Decimal('1550.10')), Item(description='Garden hose 15m', qty=Decimal('8'), unit_price=Decimal('1139.82'), amount=Decimal('9118.56')), Item(description='Glass jar set', qty=Decimal('13'), unit_price=Decimal('223.57'), amount=Decimal('2906.41')), Item(description='Linen shirt', qty=Decimal('15'), unit_price=Decimal('1053.90'), amount=Decimal('15808.50'))]"
+S1_09,tesseract,invoice_no,True,SI-26-17594,None
+S1_09,tesseract,subtotal,True,46931.51,None
+S1_09,tesseract,items,True,"[Item(description='Router device', qty=Decimal('18'), unit_price=Decimal('2125.89'), amount=Decimal('38266.02')), Item(description='Garden hose 15m', qty=Decimal('6'), unit_price=Decimal('824.69'), amount=Decimal('4948.14')), Item(description='Face towel', qty=Decimal('3'), unit_price=Decimal('146.95'), amount=Decimal('440.85')), Item(description='Glass jar set', qty=Decimal('10'), unit_price=Decimal('327.65'), amount=Decimal('3276.50'))]","[Item(description='Router device', qty=Decimal('18'), unit_price=Decimal('2125.89'), amount=Decimal('38266.02')), Item(description='Garden hose 15m', qty=Decimal('6'), unit_price=Decimal('824.69'), amount=Decimal('4948.14')), Item(description='Glass jar set', qty=Decimal('10'), unit_price=Decimal('327.65'), amount=Decimal('3276.50'))]"
+S1_10,tesseract,invoice_no,True,BL-25-68755,None
+S1_10,tesseract,subtotal,True,3495.23,None
+S1_11,tesseract,invoice_no,True,R-26-75381,None
+S1_11,tesseract,subtotal,True,54967.46,None
+S1_12,tesseract,invoice_no,True,BL-26-87534,None
+S1_12,tesseract,subtotal,True,43495.04,None
+S1_12,tesseract,items,True,"[Item(description='Glass jar set', qty=Decimal('17'), unit_price=Decimal('607.32'), amount=Decimal('10324.44')), Item(description='Garden hose 15m', qty=Decimal('19'), unit_price=Decimal('582.73'), amount=Decimal('11071.87')), Item(description='Plastic crate', qty=Decimal('8'), unit_price=Decimal('517.31'), amount=Decimal('4138.48')), Item(description='Oak shelf', qty=Decimal('7'), unit_price=Decimal('2565.75'), amount=Decimal('17960.25'))]","[Item(description='Garden hose 15m', qty=Decimal('19'), unit_price=Decimal('582.73'), amount=Decimal('11071.87')), Item(description='Plastic crate', qty=Decimal('8'), unit_price=Decimal('517.31'), amount=Decimal('4138.48'))]"
+S1_13,tesseract,invoice_no,True,BL-25-69320,None
+S1_13,tesseract,subtotal,True,21271.52,None
+S1_13,tesseract,items,True,"[Item(description='Linen shirt', qty=Decimal('7'), unit_price=Decimal('682.17'), amount=Decimal('4775.19')), Item(description='Paperback novel', qty=Decimal('17'), unit_price=Decimal('396.43'), amount=Decimal('6739.31')), Item(description='Milk powder 1kg', qty=Decimal('14'), unit_price=Decimal('696.93'), amount=Decimal('9757.02'))]","[Item(description='Linen shirt', qty=Decimal('7'), unit_price=Decimal('682.17'), amount=Decimal('4775.19')), Item(description='Milk powder 1kg', qty=Decimal('14'), unit_price=Decimal('696.93'), amount=Decimal('9757.02'))]"
+S1_14,tesseract,invoice_no,True,BL-26-99583,None
+S1_14,tesseract,subtotal,True,28992.01,None
+S1_14,tesseract,items,True,"[Item(description='Paperback novel', qty=Decimal('2'), unit_price=Decimal('199.22'), amount=Decimal('398.44')), Item(description='Router device', qty=Decimal('6'), unit_price=Decimal('3531.48'), amount=Decimal('21188.88')), Item(description='Welding rod pack', qty=Decimal('17'), unit_price=Decimal('435.57'), amount=Decimal('7404.69'))]","[Item(description='Welding rod pack', qty=Decimal('17'), unit_price=Decimal('435.57'), amount=Decimal('7404.69'))]"
+S1_15,tesseract,invoice_no,True,BL-26-87623,None
+S1_15,tesseract,subtotal,True,30891.31,None
+S1_15,tesseract,items,True,"[Item(description='Milk powder 1kg', qty=Decimal('19'), unit_price=Decimal('431.97'), amount=Decimal('8207.43')), Item(description='Glass jar set', qty=Decimal('2'), unit_price=Decimal('512.94'), amount=Decimal('1025.88')), Item(description='Router device', qty=Decimal('4'), unit_price=Decimal('3454.05'), amount=Decimal('13816.20')), Item(description='Face towel', qty=Decimal('20'), unit_price=Decimal('166.02'), amount=Decimal('3320.40')), Item(description='Paperback novel', qty=Decimal('10'), unit_price=Decimal('452.14'), amount=Decimal('4521.40'))]","[Item(description='Milk powder 1kg', qty=Decimal('19'), unit_price=Decimal('431.97'), amount=Decimal('8207.43')), Item(description='Router device', qty=Decimal('4'), unit_price=Decimal('3454.05'), amount=Decimal('13816.20')), Item(description='Face towel', qty=Decimal('20'), unit_price=Decimal('16602'), amount=Decimal('3320.40')), Item(description='Paperback novel', qty=Decimal('10'), unit_price=Decimal('452.14'), amount=Decimal('4521.40'))]"
+S1_16,tesseract,invoice_no,True,INV-26-31329,None
+S1_16,tesseract,subtotal,True,38059.03,None
+S1_16,tesseract,items,True,"[Item(description='Oak shelf', qty=Decimal('5'), unit_price=Decimal('1234.43'), amount=Decimal('6172.15')), Item(description='Garden hose 15m', qty=Decimal('19'), unit_price=Decimal('493.92'), amount=Decimal('9384.48')), Item(description='Linen shirt', qty=Decimal('4'), unit_price=Decimal('903.71'), amount=Decimal('3614.84')), Item(description='Plastic crate', qty=Decimal('8'), unit_price=Decimal('278.97'), amount=Decimal('2231.76')), Item(description='Welding rod pack', qty=Decimal('19'), unit_price=Decimal('715.98'), amount=Decimal('13603.62')), Item(description='Milk powder 1kg', qty=Decimal('3'), unit_price=Decimal('474.31'), amount=Decimal('1422.93')), Item(description='Face towel', qty=Decimal('5'), unit_price=Decimal('325.85'), amount=Decimal('1629.25'))]","[Item(description='Oak shelf', qty=Decimal('5'), unit_price=Decimal('1234.43'), amount=Decimal('6172.15')), Item(description='Garden hose 15m', qty=Decimal('19'), unit_price=Decimal('493.92'), amount=Decimal('9384.48')), Item(description='Linen shirt', qty=Decimal('4'), unit_price=Decimal('903.71'), amount=Decimal('3614.84')), Item(description='Welding rod pack', qty=Decimal('19'), unit_price=Decimal('715.98'), amount=Decimal('13603.62')), Item(description='Milk powder 1kg', qty=Decimal('3'), unit_price=Decimal('474.31'), amount=Decimal('1422.93'))]"
+S1_17,tesseract,invoice_no,True,INV-25-17205,None
+S1_17,tesseract,subtotal,True,50232.57,None
+S1_17,tesseract,items,True,"[Item(description='Linen shirt', qty=Decimal('10'), unit_price=Decimal('1658.20'), amount=Decimal('16582.00')), Item(description='Oak shelf', qty=Decimal('16'), unit_price=Decimal('2015.90'), amount=Decimal('32254.40')), Item(description='Milk powder 1kg', qty=Decimal('3'), unit_price=Decimal('465.39'), amount=Decimal('1396.17'))]","[Item(description='Linen shirt', qty=Decimal('10'), unit_price=Decimal('1658.20'), amount=Decimal('16582.00')), Item(description='Oak shelf', qty=Decimal('16'), unit_price=Decimal('2015.90'), amount=Decimal('32254.40')), Item(description='Milk powder 1kg', qty=Decimal('3'), unit_price=Decimal('46539'), amount=Decimal('1396.17'))]"
+S1_18,tesseract,invoice_no,True,BL-25-45367,None
+S1_18,tesseract,subtotal,True,96240.51,None
+S1_19,tesseract,invoice_no,True,BL-26-21213,None
+S1_19,tesseract,subtotal,True,41265.74,None
+S1_20,tesseract,invoice_no,True,BL-25-34347,None
+S1_20,tesseract,subtotal,True,57460.15,None
+S2_01,tesseract,invoice_no,True,SI-25-95137,None
+S2_01,tesseract,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_01,tesseract,subtotal,True,49248.45,None
+S2_01,tesseract,tax_total,True,4924.85,85
+S2_01,tesseract,items,True,"[Item(description='Router device', qty=Decimal('7'), unit_price=Decimal('4219.37'), amount=Decimal('29535.59')), Item(description='Plastic crate', qty=Decimal('13'), unit_price=Decimal('194.63'), amount=Decimal('2530.19')), Item(description='Paperback novel', qty=Decimal('4'), unit_price=Decimal('496.24'), amount=Decimal('1984.96')), Item(description='Oak shelf', qty=Decimal('4'), unit_price=Decimal('1706.44'), amount=Decimal('6825.76')), Item(description='Milk powder 1kg', qty=Decimal('17'), unit_price=Decimal('411.61'), amount=Decimal('6997.37')), Item(description='Welding rod pack', qty=Decimal('2'), unit_price=Decimal('687.29'), amount=Decimal('1374.58'))]","[Item(description='Router device', qty=Decimal('7'), unit_price=Decimal('4219.37'), amount=Decimal('29535.59')), Item(description='Paperback novel 4', qty=Decimal('496.24'), unit_price=Decimal('1984'), amount=Decimal('96')), Item(description='Milk powder 1kg', qty=Decimal('17'), unit_price=Decimal('411.61'), amount=Decimal('6997.37')), Item(description='Welding rod pack', qty=Decimal('2'), unit_price=Decimal('687.29'), amount=Decimal('1374.58'))]"
+S2_02,tesseract,invoice_no,True,BL-26-24212,None
+S2_02,tesseract,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_02,tesseract,subtotal,True,29034.26,None
+S2_02,tesseract,items,True,"[Item(description='Paperback novel', qty=Decimal('15'), unit_price=Decimal('453.11'), amount=Decimal('6796.65')), Item(description='Linen shirt', qty=Decimal('12'), unit_price=Decimal('1275.92'), amount=Decimal('15311.04')), Item(description='Welding rod pack', qty=Decimal('3'), unit_price=Decimal('362.48'), amount=Decimal('1087.44')), Item(description='Glass jar set', qty=Decimal('1'), unit_price=Decimal('309.19'), amount=Decimal('309.19')), Item(description='Plastic crate', qty=Decimal('13'), unit_price=Decimal('425.38'), amount=Decimal('5529.94'))]","[Item(description='Linen shirt', qty=Decimal('12'), unit_price=Decimal('1275.92'), amount=Decimal('15311.04')), Item(description='Plastic crate', qty=Decimal('13'), unit_price=Decimal('425.38'), amount=Decimal('5529.94'))]"
+S2_03,tesseract,invoice_no,True,BL-26-94214,None
+S2_03,tesseract,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_03,tesseract,subtotal,True,5021.72,None
+S2_03,tesseract,items,True,"[Item(description='Glass jar set', qty=Decimal('10'), unit_price=Decimal('411.04'), amount=Decimal('4110.40')), Item(description='Welding rod pack', qty=Decimal('1'), unit_price=Decimal('911.32'), amount=Decimal('911.32'))]","[Item(description='Glass jar set', qty=Decimal('10'), unit_price=Decimal('411.04'), amount=Decimal('4110.40'))]"
+S2_04,tesseract,invoice_no,True,BL-26-31875,None
+S2_04,tesseract,vendor,True,Nimbus Cloud Hardware,Nimbus Cloud Hardware STATEMENT
+S2_04,tesseract,subtotal,True,40936.15,None
+S2_04,tesseract,items,True,"[Item(description='Garden hose 15m', qty=Decimal('3'), unit_price=Decimal('454.87'), amount=Decimal('1364.61')), Item(description='Router device', qty=Decimal('2'), unit_price=Decimal('3129.91'), amount=Decimal('6259.82')), Item(description='Glass jar set', qty=Decimal('4'), unit_price=Decimal('583.80'), amount=Decimal('2335.20')), Item(description='Plastic crate', qty=Decimal('15'), unit_price=Decimal('409.91'), amount=Decimal('6148.65')), Item(description='Paperback novel', qty=Decimal('9'), unit_price=Decimal('321.59'), amount=Decimal('2894.31')), Item(description='Linen shirt', qty=Decimal('11'), unit_price=Decimal('1993.96'), amount=Decimal('21933.56'))]","[Item(description='Garden hose 15m', qty=Decimal('3'), unit_price=Decimal('454.87'), amount=Decimal('1364.61')), Item(description='Router device 2', qty=Decimal('3129.91'), unit_price=Decimal('6'), amount=Decimal('259.82')), Item(description='Glass jar set', qty=Decimal('4'), unit_price=Decimal('583.80'), amount=Decimal('2335.20')), Item(description='Plastic crate', qty=Decimal('15'), unit_price=Decimal('409.91'), amount=Decimal('6148.65')), Item(description='Paperback novel', qty=Decimal('9'), unit_price=Decimal('321.59'), amount=Decimal('2894.31'))]"
+S2_05,tesseract,invoice_no,True,INV-25-29477,None
+S2_05,tesseract,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_05,tesseract,subtotal,True,7527.88,None
+S2_05,tesseract,items,True,"[Item(description='Garden hose 15m', qty=Decimal('7'), unit_price=Decimal('862.75'), amount=Decimal('6039.25')), Item(description='Welding rod pack', qty=Decimal('1'), unit_price=Decimal('908.58'), amount=Decimal('908.58')), Item(description='Milk powder 1kg', qty=Decimal('1'), unit_price=Decimal('580.05'), amount=Decimal('580.05'))]","[Item(description='Garden hose 15m', qty=Decimal('862.75'), unit_price=Decimal('6039'), amount=Decimal('25'))]"
+S2_06,tesseract,invoice_no,True,SI-26-46331,None
+S2_06,tesseract,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_06,tesseract,subtotal,True,121579.20,None
+S2_06,tesseract,items,True,"[Item(description='Linen shirt', qty=Decimal('10'), unit_price=Decimal('1385.04'), amount=Decimal('13850.40')), Item(description='Glass jar set', qty=Decimal('13'), unit_price=Decimal('467.22'), amount=Decimal('6073.86')), Item(description='Milk powder 1kg', qty=Decimal('19'), unit_price=Decimal('694.01'), amount=Decimal('13186.19')), Item(description='Garden hose 15m', qty=Decimal('9'), unit_price=Decimal('1293.92'), amount=Decimal('11645.28')), Item(description='Router device', qty=Decimal('16'), unit_price=Decimal('1757.49'), amount=Decimal('28119.84')), Item(description='Plastic crate', qty=Decimal('10'), unit_price=Decimal('492.03'), amount=Decimal('4920.30')), Item(description='Oak shelf', qty=Decimal('17'), unit_price=Decimal('2575.49'), amount=Decimal('43783.33'))]","[Item(description='Linen shirt', qty=Decimal('10'), unit_price=Decimal('1385.04'), amount=Decimal('13850.40')), Item(description='Glass jar set', qty=Decimal('13'), unit_price=Decimal('467.22'), amount=Decimal('6073.86')), Item(description='Milk powder 1kg', qty=Decimal('19'), unit_price=Decimal('694.01'), amount=Decimal('13186.19')), Item(description='Garden hose 15m', qty=Decimal('9'), unit_price=Decimal('1293.92'), amount=Decimal('11645.28')), Item(description='Router device', qty=Decimal('16'), unit_price=Decimal('1757.49'), amount=Decimal('28119.84')), Item(description='Plastic crate', qty=Decimal('10'), unit_price=Decimal('492.03'), amount=Decimal('4920.30'))]"
+S2_07,tesseract,invoice_no,True,SI-26-84959,None
+S2_07,tesseract,vendor,True,Granite Peak Tools,Granite Peak Tools STATEMENT
+S2_07,tesseract,subtotal,True,46515.38,None
+S2_08,tesseract,invoice_no,True,SI-26-22484,None
+S2_08,tesseract,vendor,True,Teakwood Interiors,Teakwood Interiors STATEMENT
+S2_08,tesseract,subtotal,True,12546.26,None
+S2_08,tesseract,items,True,"[Item(description='Plastic crate', qty=Decimal('20'), unit_price=Decimal('585.88'), amount=Decimal('11717.60')), Item(description='Face towel', qty=Decimal('7'), unit_price=Decimal('118.38'), amount=Decimal('828.66'))]",[]
+S2_09,tesseract,invoice_no,True,SI-26-95984,None
+S2_09,tesseract,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_09,tesseract,subtotal,True,21429.38,None
+S2_09,tesseract,items,True,"[Item(description='Plastic crate', qty=Decimal('16'), unit_price=Decimal('612.22'), amount=Decimal('9795.52')), Item(description='Paperback novel', qty=Decimal('5'), unit_price=Decimal('440.55'), amount=Decimal('2202.75')), Item(description='Face towel', qty=Decimal('20'), unit_price=Decimal('308.39'), amount=Decimal('6167.80')), Item(description='Linen shirt', qty=Decimal('3'), unit_price=Decimal('1087.77'), amount=Decimal('3263.31'))]","[Item(description='Plastic crate', qty=Decimal('16'), unit_price=Decimal('61222'), amount=Decimal('9795.52')), Item(description='Paperback novel', qty=Decimal('5'), unit_price=Decimal('440.55'), amount=Decimal('2202.75')), Item(description='Face towel', qty=Decimal('20'), unit_price=Decimal('308.39'), amount=Decimal('6167.80')), Item(description='Linen shirt', qty=Decimal('3'), unit_price=Decimal('1087.77'), amount=Decimal('3263.31'))]"
+S2_10,tesseract,invoice_no,True,SI-25-89748,None
+S2_10,tesseract,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_10,tesseract,subtotal,True,95964.19,None
+S2_10,tesseract,items,True,"[Item(description='Glass jar set', qty=Decimal('9'), unit_price=Decimal('657.60'), amount=Decimal('5918.40')), Item(description='Router device', qty=Decimal('16'), unit_price=Decimal('3534.27'), amount=Decimal('56548.32')), Item(description='Oak shelf', qty=Decimal('16'), unit_price=Decimal('960.15'), amount=Decimal('15362.40')), Item(description='Plastic crate', qty=Decimal('7'), unit_price=Decimal('244.10'), amount=Decimal('1708.70')), Item(description='Welding rod pack', qty=Decimal('16'), unit_price=Decimal('858.70'), amount=Decimal('13739.20')), Item(description='Paperback novel', qty=Decimal('19'), unit_price=Decimal('141.43'), amount=Decimal('2687.17'))]",[]
+S2_11,tesseract,invoice_no,True,SI-26-39529,None
+S2_11,tesseract,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_11,tesseract,subtotal,True,35663.56,None
+S2_11,tesseract,rounding,True,0.44,144
+S2_11,tesseract,items,True,"[Item(description='Router device', qty=Decimal('3'), unit_price=Decimal('4191.14'), amount=Decimal('12573.42')), Item(description='Oak shelf', qty=Decimal('8'), unit_price=Decimal('2765.33'), amount=Decimal('22122.64')), Item(description='Face towel', qty=Decimal('5'), unit_price=Decimal('193.50'), amount=Decimal('967.50'))]","[Item(description='Oak shelf', qty=Decimal('2765.33'), unit_price=Decimal('22122'), amount=Decimal('64')), Item(description='Face towel', qty=Decimal('193.50'), unit_price=Decimal('967'), amount=Decimal('50'))]"
+S2_12,tesseract,invoice_no,True,R-26-94465,None
+S2_12,tesseract,vendor,True,Crescent Dairy Co,Crescent Dairy Co STATEMENT
+S2_12,tesseract,subtotal,True,33385.23,None
+S2_12,tesseract,discount,True,3338.52,52
+S2_12,tesseract,items,True,"[Item(description='Glass jar set', qty=Decimal('12'), unit_price=Decimal('420.83'), amount=Decimal('5049.96')), Item(description='Linen shirt', qty=Decimal('9'), unit_price=Decimal('957.35'), amount=Decimal('8616.15')), Item(description='Welding rod pack', qty=Decimal('12'), unit_price=Decimal('625.37'), amount=Decimal('7504.44')), Item(description='Plastic crate', qty=Decimal('6'), unit_price=Decimal('257.16'), amount=Decimal('1542.96')), Item(description='Milk powder 1kg', qty=Decimal('13'), unit_price=Decimal('506.09'), amount=Decimal('6579.17')), Item(description='Garden hose 15m', qty=Decimal('5'), unit_price=Decimal('818.51'), amount=Decimal('4092.55'))]","[Item(description='Glass jar set', qty=Decimal('12'), unit_price=Decimal('420.83'), amount=Decimal('5049.96')), Item(description='Linen shirt 9', qty=Decimal('957'), unit_price=Decimal('35'), amount=Decimal('8616.15')), Item(description='Welding rod pack 12', qty=Decimal('625'), unit_price=Decimal('37'), amount=Decimal('7504.44')), Item(description='Plastic crate', qty=Decimal('6'), unit_price=Decimal('257.16'), amount=Decimal('1542.96')), Item(description='Milk powder i1kg', qty=Decimal('13'), unit_price=Decimal('506.09'), amount=Decimal('6579.17')), Item(description='Garden hose 15m', qty=Decimal('5'), unit_price=Decimal('818.51'), amount=Decimal('4092.55'))]"
+S2_13,tesseract,invoice_no,True,R-26-33524,None
+S2_13,tesseract,vendor,True,Willow Bend Books,Willow Bend Books STATEMENT
+S2_13,tesseract,subtotal,True,7025.93,None
+S2_13,tesseract,rounding,True,0.44,44
+S2_13,tesseract,items,True,"[Item(description='Paperback novel', qty=Decimal('10'), unit_price=Decimal('304.32'), amount=Decimal('3043.20')), Item(description='Garden hose 15m', qty=Decimal('11'), unit_price=Decimal('333.76'), amount=Decimal('3671.36')), Item(description='Face towel', qty=Decimal('3'), unit_price=Decimal('103.79'), amount=Decimal('311.37'))]","[Item(description='Paperback novel 10', qty=Decimal('304.32'), unit_price=Decimal('3043'), amount=Decimal('20')), Item(description='Garden hose 15m', qty=Decimal('11'), unit_price=Decimal('333.76'), amount=Decimal('3671.36')), Item(description='Face towel', qty=Decimal('3'), unit_price=Decimal('103.79'), amount=Decimal('944.37'))]"
+S2_14,tesseract,invoice_no,True,R-26-95602,None
+S2_14,tesseract,vendor,True,Nimbus Cloud Hardware,Nimbus Cloud Hardware STATEMENT
+S2_14,tesseract,subtotal,True,85717.89,None
+S2_14,tesseract,items,True,"[Item(description='Face towel', qty=Decimal('1'), unit_price=Decimal('127.31'), amount=Decimal('127.31')), Item(description='Linen shirt', qty=Decimal('16'), unit_price=Decimal('1952.16'), amount=Decimal('31234.56')), Item(description='Plastic crate', qty=Decimal('2'), unit_price=Decimal('524.46'), amount=Decimal('1048.92')), Item(description='Router device', qty=Decimal('7'), unit_price=Decimal('4182.61'), amount=Decimal('29278.27')), Item(description='Welding rod pack', qty=Decimal('15'), unit_price=Decimal('692.29'), amount=Decimal('10384.35')), Item(description='Oak shelf', qty=Decimal('4'), unit_price=Decimal('3411.12'), amount=Decimal('13644.48'))]","[Item(description='Face towel 1', qty=Decimal('227.31'), unit_price=Decimal('427'), amount=Decimal('31')), Item(description='Linen shirt 16', qty=Decimal('1952.16'), unit_price=Decimal('31234'), amount=Decimal('56')), Item(description='Plastic crate', qty=Decimal('2'), unit_price=Decimal('524.46'), amount=Decimal('1048.92')), Item(description='Router device', qty=Decimal('7'), unit_price=Decimal('4182.61'), amount=Decimal('29278.27')), Item(description='Welding rod pack', qty=Decimal('15'), unit_price=Decimal('692.29'), amount=Decimal('10384.35')), Item(description='Oak shelf 4', qty=Decimal('3411.12'), unit_price=Decimal('13644'), amount=Decimal('48'))]"
+S2_15,tesseract,invoice_no,True,BL-26-80096,None
+S2_15,tesseract,vendor,True,Harvest Moon Grocers,Harvest Moon Grocers STATEMENT
+S2_15,tesseract,subtotal,True,89902.26,None
+S2_15,tesseract,rounding,True,-0.03,3
+S2_15,tesseract,items,True,"[Item(description='Oak shelf', qty=Decimal('2'), unit_price=Decimal('3344.57'), amount=Decimal('6689.14')), Item(description='Paperback novel', qty=Decimal('9'), unit_price=Decimal('141.41'), amount=Decimal('1272.69')), Item(description='Garden hose 15m', qty=Decimal('13'), unit_price=Decimal('1146.96'), amount=Decimal('14910.48')), Item(description='Router device', qty=Decimal('19'), unit_price=Decimal('3334.75'), amount=Decimal('63360.25')), Item(description='Welding rod pack', qty=Decimal('10'), unit_price=Decimal('366.97'), amount=Decimal('3669.70'))]","[Item(description='Oak shelf', qty=Decimal('2'), unit_price=Decimal('3344.57'), amount=Decimal('6689.14')), Item(description='Garden hose 15m', qty=Decimal('13'), unit_price=Decimal('1146.96'), amount=Decimal('14910.48')), Item(description='Router device', qty=Decimal('19'), unit_price=Decimal('3334.75'), amount=Decimal('63360.25')), Item(description='Welding rod pack', qty=Decimal('10'), unit_price=Decimal('366.97'), amount=Decimal('3669.70'))]"
+S2_16,tesseract,invoice_no,True,SI-26-80173,None
+S2_16,tesseract,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_16,tesseract,subtotal,True,51681.04,None
+S2_16,tesseract,rounding,True,0.01,1
+S2_16,tesseract,items,True,"[Item(description='Router device', qty=Decimal('7'), unit_price=Decimal('3556.65'), amount=Decimal('24896.55')), Item(description='Welding rod pack', qty=Decimal('2'), unit_price=Decimal('775.24'), amount=Decimal('1550.48')), Item(description='Face towel', qty=Decimal('17'), unit_price=Decimal('145.61'), amount=Decimal('2475.37')), Item(description='Plastic crate', qty=Decimal('8'), unit_price=Decimal('645.97'), amount=Decimal('5167.76')), Item(description='Paperback novel', qty=Decimal('18'), unit_price=Decimal('396.94'), amount=Decimal('7144.92')), Item(description='Linen shirt', qty=Decimal('11'), unit_price=Decimal('805.42'), amount=Decimal('8859.62')), Item(description='Glass jar set', qty=Decimal('6'), unit_price=Decimal('264.39'), amount=Decimal('1586.34'))]","[Item(description='Welding rod pack', qty=Decimal('2'), unit_price=Decimal('775.24'), amount=Decimal('1550.48')), Item(description='Face towel', qty=Decimal('17'), unit_price=Decimal('145.61'), amount=Decimal('2475.37')), Item(description='Plastic crate', qty=Decimal('8'), unit_price=Decimal('645.97'), amount=Decimal('5167.76')), Item(description='Paperback novel', qty=Decimal('18'), unit_price=Decimal('396.94'), amount=Decimal('7144.92')), Item(description='Linen shirt', qty=Decimal('11'), unit_price=Decimal('805.42'), amount=Decimal('8859.62'))]"
+S2_17,tesseract,invoice_no,True,SI-25-97720,None
+S2_17,tesseract,vendor,True,Delta Ridge Plastics,Delta Ridge Plastics STATEMENT
+S2_17,tesseract,currency,True,USD,None
+S2_17,tesseract,subtotal,True,67206.10,None
+S2_17,tesseract,rounding,True,-0.10,-8.10
+S2_17,tesseract,items,True,"[Item(description='Oak shelf', qty=Decimal('18'), unit_price=Decimal('2597.83'), amount=Decimal('46760.94')), Item(description='Milk powder 1kg', qty=Decimal('11'), unit_price=Decimal('452.21'), amount=Decimal('4974.31')), Item(description='Welding rod pack', qty=Decimal('17'), unit_price=Decimal('910.05'), amount=Decimal('15470.85'))]",[]
+S2_18,tesseract,invoice_no,True,BL-25-73518,None
+S2_18,tesseract,vendor,True,Teakwood Interiors,Teakwood Interiors STATEMENT
+S2_18,tesseract,subtotal,True,29653.33,None
+S2_18,tesseract,rounding,True,-0.33,33
+S2_19,tesseract,invoice_no,True,SI-26-85053,None
+S2_19,tesseract,vendor,True,Delta Ridge Plastics,Delta Ridge Plastics STATEMENT
+S2_19,tesseract,subtotal,True,4976.72,None
+S2_19,tesseract,items,True,"[Item(description='Face towel', qty=Decimal('16'), unit_price=Decimal('250.89'), amount=Decimal('4014.24')), Item(description='Paperback novel', qty=Decimal('2'), unit_price=Decimal('481.24'), amount=Decimal('962.48'))]","[Item(description='Face towel', qty=Decimal('16'), unit_price=Decimal('250.89'), amount=Decimal('4014.24'))]"
+S2_20,tesseract,invoice_no,True,BL-26-29820,None
+S2_20,tesseract,vendor,True,Opal Coast Textiles,Opal Coast Textiles STATEMENT
+S2_20,tesseract,subtotal,True,46157.49,None
+S2_20,tesseract,discount,True,4615.75,7
+S2_20,tesseract,tax_total,True,2077.09,9
+S2_20,tesseract,items,True,"[Item(description='Welding rod pack', qty=Decimal('4'), unit_price=Decimal('400.09'), amount=Decimal('1600.36')), Item(description='Milk powder 1kg', qty=Decimal('4'), unit_price=Decimal('381.33'), amount=Decimal('1525.32')), Item(description='Glass jar set', qty=Decimal('5'), unit_price=Decimal('318.69'), amount=Decimal('1593.45')), Item(description='Face towel', qty=Decimal('1'), unit_price=Decimal('94.59'), amount=Decimal('94.59')), Item(description='Router device', qty=Decimal('1'), unit_price=Decimal('2038.42'), amount=Decimal('2038.42')), Item(description='Garden hose 15m', qty=Decimal('9'), unit_price=Decimal('1195.99'), amount=Decimal('10763.91')), Item(description='Oak shelf', qty=Decimal('8'), unit_price=Decimal('3567.68'), amount=Decimal('28541.44'))]","[Item(description='Milk powder 1kg aA', qty=Decimal('381.33'), unit_price=Decimal('1525'), amount=Decimal('32')), Item(description='Glass jar set', qty=Decimal('318.69'), unit_price=Decimal('1593'), amount=Decimal('45')), Item(description='Face towel 94,', qty=Decimal('59'), unit_price=Decimal('94'), amount=Decimal('59'))]"

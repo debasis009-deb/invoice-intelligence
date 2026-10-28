@@ -1,0 +1,63 @@
+{
+ "extraction_code": "896c729a4b",
+ "oracle": {
+  "documents": 40,
+  "field_accuracy": {
+   "invoice_no": 1.0,
+   "date": 1.0,
+   "vendor": 1.0,
+   "currency": 1.0,
+   "subtotal": 1.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 1.0,
+   "items": 1.0
+  },
+  "all_fields_correct": 1.0,
+  "all_fields_exact_text": 1.0,
+  "item_f1": 1.0,
+  "all_fields_correct_by_template": {
+   "S1": 1.0,
+   "S2": 1.0
+  },
+  "review": {
+   "flagged": 0,
+   "wrong_documents": 0,
+   "flag_precision": null,
+   "flag_recall": null,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 0.0
+ },
+ "rapidocr": {
+  "documents": 40,
+  "field_accuracy": {
+   "invoice_no": 0.85,
+   "date": 0.975,
+   "vendor": 1.0,
+   "currency": 1.0,
+   "subtotal": 1.0,
+   "discount": 1.0,
+   "rounding": 1.0,
+   "total": 1.0,
+   "tax_total": 1.0,
+   "items": 0.725
+  },
+  "all_fields_correct": 0.675,
+  "all_fields_exact_text": 0.55,
+  "item_f1": 0.92,
+  "all_fields_correct_by_template": {
+   "S1": 1.0,
+   "S2": 0.35
+  },
+  "review": {
+   "flagged": 35,
+   "wrong_documents": 13,
+   "flag_precision": 0.371,
+   "flag_recall": 1.0,
+   "wrong_but_not_flagged": 0
+  },
+  "seconds_per_document": 2.11
+ }
+}
